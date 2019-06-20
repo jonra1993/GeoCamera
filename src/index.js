@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import { Root } from "native-base";
 import { createStackNavigator, createAppContainer } from "react-navigation";
 
-import NeedhelpScreen from "./screens/needHelpScreen/needHelpScreen";
+import MapScreen from "./screens/mapScreen/mapScreen";
 import LoginScreen from "./screens/loginScreen/loginScreen";
 import CameraScreen from "./screens/cameraScreen/cameraScreen";
 
@@ -10,7 +10,7 @@ import CameraScreen from "./screens/cameraScreen/cameraScreen";
 const AppNavigator = createStackNavigator(
 	{
 		LoginScreen: { screen: LoginScreen },
-		NeedhelpScreen: {screen: NeedhelpScreen},
+		MapScreen: {screen: MapScreen},
 		CameraScreen: {screen: CameraScreen}
 	},
 	{

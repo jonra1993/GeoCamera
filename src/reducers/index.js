@@ -1,13 +1,9 @@
 import {combineReducers} from "redux";
-import countReducer from "./countReducer.js";
-import bottomBarReducer from "./bottomBarReducer";
 import locationReducer from "./locationReducer";
-import tipsReducer from "./tipsReducer"
+import photoReducer from "./photosReducer"
 
 const allReducers = combineReducers({
-  count: countReducer,
-  tips: tipsReducer,
-  tabs: bottomBarReducer,
+  photos: photoReducer,
   location: locationReducer
 });
 export default allReducers;

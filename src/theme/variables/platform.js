@@ -105,7 +105,7 @@ export default {
   checkboxTickColor: "#fff",
 
   // Color
-  brandPrimary: platform === "ios" ? "#db5474ff" : "#db5474ff",
+  brandPrimary: platform === "ios" ? "#54ae00ff" : "#54ae00ff",
   brandInfo: "#62B1F6",
   brandSuccess: "#5cb85c",
   brandDanger: "#d9534f",
@@ -136,20 +136,20 @@ export default {
 
   // Footer
   footerHeight: 55,
-  footerDefaultBg: platform === "ios" ? "#db5474ff" : "#db5474ff",
+  footerDefaultBg: platform === "ios" ? "#54ae00ff" : "#54ae00ff",
   footerPaddingBottom: 0,
 
   // FooterTab
   tabBarTextColor: platform === "ios" ? "#cf8498ff" : "#cf8498ff",
   tabBarTextSize: platform === "ios" ? 14 : 11,
   activeTab: platform === "ios" ? "#fff" : "#fff",
-  sTabBarActiveTextColor: "#db5474ff",
+  sTabBarActiveTextColor: "#54ae00ff",
   tabBarActiveTextColor: platform === "ios" ? "#fff" : "#fff",
-  tabActiveBgColor: platform === "ios" ? "#db5474ff" : "#db5474ff",
+  tabActiveBgColor: platform === "ios" ? "#54ae00ff" : "#54ae00ff",
 
   // Header
   toolbarBtnColor: platform === "ios" ? "#fff" : "#fff",
-  toolbarDefaultBg: platform === "ios" ? "#db5474ff" : "#db5474ff",
+  toolbarDefaultBg: platform === "ios" ? "#54ae00ff" : "#54ae00ff",
   toolbarHeight: platform === "ios" ? 64 : 56,
   toolbarSearchIconSize: platform === "ios" ? 20 : 23,
   toolbarInputColor: platform === "ios" ? "#CECDD2" : "#fff",
