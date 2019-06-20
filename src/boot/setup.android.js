@@ -11,51 +11,7 @@ import {PermissionsAndroid} from "react-native";
 const store = createStore(allReducers);
 console.disableYellowBox = true
 
-async function requestWritePermission() {
-  try {
-    const granted = await PermissionsAndroid.request(
-      PermissionsAndroid.PERMISSIONS.WRITE_EXTERNAL_STORAGE,
-      {
-        title: "GeoCam",
-        message:
-          "It needs to get access to WRITE_EXTERNAL_STORAGE",
-        buttonNegative: "Cancelar",
-        buttonPositive: "OK",
-      },
-    );
-    if (granted === PermissionsAndroid.RESULTS.GRANTED) {
-      //console.log('You can use the camera');
-    } else {
-      //console.log('Camera permission denied');
-    }
-  } catch (err) {
-    console.error(err);
-  }
-}
-
-async function requestReadPermission() {
-  try {
-    const granted = await PermissionsAndroid.request(
-      PermissionsAndroid.PERMISSIONS.READ_EXTERNAL_STORAGE,
-      {
-        title: "GeoCam",
-        message:
-          "It needs to get access to READ_EXTERNAL_STORAGE",
-        buttonNegative: "Cancelar",
-        buttonPositive: "OK",
-      },
-    );
-    if (granted === PermissionsAndroid.RESULTS.GRANTED) {
-      //console.log('You can use the camera');
-    } else {
-      //console.log('Camera permission denied');
-    }
-  } catch (err) {
-    console.error(err);
-  }
-}
-
-async function requestLocationPermission() {
+async function requestPermission() {
   try {
     const granted = await PermissionsAndroid.request(
       PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION,
@@ -75,9 +31,44 @@ async function requestLocationPermission() {
   } catch (err) {
     console.error(err);
   }
-}
-
-async function requestCameraPermission() {
+  try {
+    const granted = await PermissionsAndroid.request(
+      PermissionsAndroid.PERMISSIONS.WRITE_EXTERNAL_STORAGE,
+      {
+        title: "GeoCam",
+        message:
+          "It needs to get access to WRITE_EXTERNAL_STORAGE",
+        buttonNegative: "Cancelar",
+        buttonPositive: "OK",
+      },
+    );
+    if (granted === PermissionsAndroid.RESULTS.GRANTED) {
+      //console.log('You can use the camera');
+    } else {
+      //console.log('Camera permission denied');
+    }
+  } catch (err) {
+    console.error(err);
+  }
+  try {
+    const granted = await PermissionsAndroid.request(
+      PermissionsAndroid.PERMISSIONS.READ_EXTERNAL_STORAGE,
+      {
+        title: "GeoCam",
+        message:
+          "It needs to get access to READ_EXTERNAL_STORAGE",
+        buttonNegative: "Cancelar",
+        buttonPositive: "OK",
+      },
+    );
+    if (granted === PermissionsAndroid.RESULTS.GRANTED) {
+      //console.log('You can use the camera');
+    } else {
+      //console.log('Camera permission denied');
+    }
+  } catch (err) {
+    console.error(err);
+  }
   try {
     const granted = await PermissionsAndroid.request(
       PermissionsAndroid.PERMISSIONS.CAMERA,
@@ -101,11 +92,8 @@ async function requestCameraPermission() {
 
 export default class Setup extends Component{
   componentDidMount(){
-    requestLocationPermission();
-    requestCameraPermission();
-    requestReadPermission();
-    requestWritePermission();
-  }
+    requestPermission();
+  } 
 
   render(){
     return (

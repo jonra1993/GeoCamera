@@ -10,13 +10,13 @@ import {
 } from "react-native";
 import { Container, Header, Title, Button, Left, Right, Body, Icon} from "native-base";
 import ButtonGetLocation from "../../components/buttons/buttonGetLocation";
-
 import MapView, {PROVIDER_GOOGLE, Marker}  from "react-native-maps";
 import Style from "./style";
 //Redux components
 import {updateLocation} from "../../actions/index";
 import {connect} from "react-redux";
 import Geolocation from "react-native-geolocation-service";
+
 
 let hasLocationPermission = async () => {
   if (Platform.OS === "ios" ||
@@ -42,7 +42,6 @@ let hasLocationPermission = async () => {
 
 
 class MapScreen extends Component {
-
   componentDidMount() {
     this.props.updateLocation();
   }

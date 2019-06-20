@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import {StyleSheet, View } from 'react-native';
+import {StyleSheet, View, PermissionsAndroid } from 'react-native';
 import { RNCamera } from 'react-native-camera';
 import ButtonPhoto from "../../components/buttons/buttonPhoto"
 import {addPhoto} from "../../actions/index";
@@ -31,6 +31,10 @@ let hasLocationPermission = async () => {
 };
 
 class CameraScreen extends PureComponent {
+
+  componentDidMount(){
+  }
+
   render() {
     this.props.updateLocation();
     console.log(this.props.photos)
@@ -71,7 +75,7 @@ class CameraScreen extends PureComponent {
         console.log(data);
         console.log(data.uri);
         const timestamp = Date.now();
-        let path = RNFS.PicturesDirectoryPath + "/GeoCam"+timestamp;
+        let path = RNFS.PicturesDirectoryPath + "/GeoCam"+timestamp+".jpg";
         console.log(path)
         // write the file
         RNFS.moveFile(data.uri, path)
