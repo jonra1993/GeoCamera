@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // asio.hpp
 // ~~~~~~~~
@@ -121,6 +122,8 @@
 
 #endif // BOOST_ASIO_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // asio.hpp
 // ~~~~~~~~
@@ -242,4 +245,7 @@
 #include <boost/asio/write_at.hpp>
 
 #endif // BOOST_ASIO_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

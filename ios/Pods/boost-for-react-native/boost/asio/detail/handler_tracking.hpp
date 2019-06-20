@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/handler_tracking.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,6 +162,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_HANDLER_TRACKING_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/handler_tracking.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -322,4 +325,7 @@ private:
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_DETAIL_HANDLER_TRACKING_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

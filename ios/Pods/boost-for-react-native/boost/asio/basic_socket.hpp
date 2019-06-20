@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_socket.hpp
 // ~~~~~~~~~~~~~~~~
@@ -1520,6 +1521,8 @@ protected:
 
 #endif // BOOST_ASIO_BASIC_SOCKET_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_socket.hpp
 // ~~~~~~~~~~~~~~~~
@@ -3040,4 +3043,7 @@ protected:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BASIC_SOCKET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2010-2012.
 
@@ -202,6 +203,8 @@ http://www-igm.univ-mlv.fr/%7Elecroq/string/node18.html
 
 #endif  //  BOOST_ALGORITHM_BOYER_MOORE_HORSPOOOL_SEARCH_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2010-2012.
 
@@ -404,4 +407,7 @@ http://www-igm.univ-mlv.fr/%7Elecroq/string/node18.html
 }}
 
 #endif  //  BOOST_ALGORITHM_BOYER_MOORE_HORSPOOOL_SEARCH_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/posix_fd_set_adapter.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,6 +121,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_POSIX_FD_SET_ADAPTER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/posix_fd_set_adapter.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -240,4 +243,7 @@ private:
        // && !defined(BOOST_ASIO_WINDOWS_RUNTIME)
 
 #endif // BOOST_ASIO_DETAIL_POSIX_FD_SET_ADAPTER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

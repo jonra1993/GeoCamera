@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // ip/multicast.hpp
 // ~~~~~~~~~~~~~~~~
@@ -193,6 +194,8 @@ typedef boost::asio::ip::detail::socket_option::multicast_enable_loopback<
 
 #endif // BOOST_ASIO_IP_MULTICAST_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // ip/multicast.hpp
 // ~~~~~~~~~~~~~~~~
@@ -386,4 +389,7 @@ typedef boost::asio::ip::detail::socket_option::multicast_enable_loopback<
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IP_MULTICAST_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

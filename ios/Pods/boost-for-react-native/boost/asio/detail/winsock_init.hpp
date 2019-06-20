@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/winsock_init.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,6 +131,8 @@ static const winsock_init<>& winsock_init_instance = winsock_init<>(false);
 
 #endif // BOOST_ASIO_DETAIL_WINSOCK_INIT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/winsock_init.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -260,4 +263,7 @@ static const winsock_init<>& winsock_init_instance = winsock_init<>(false);
 #endif // defined(BOOST_ASIO_WINDOWS) || defined(__CYGWIN__)
 
 #endif // BOOST_ASIO_DETAIL_WINSOCK_INIT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

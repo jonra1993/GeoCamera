@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  (C) Copyright Herve Bronnimann 2004.
 //
 // Distributed under the Boost Software License, Version 1.0. (See accompanying
@@ -553,6 +554,8 @@ namespace boost {
 
 #endif // BOOST_ALGORITHM_MINMAX_ELEMENT_HPP
 =======
+=======
+>>>>>>> Jona
 //  (C) Copyright Herve Bronnimann 2004.
 //
 // Distributed under the Boost Software License, Version 1.0. (See accompanying
@@ -1106,4 +1109,7 @@ namespace boost {
 } // namespace boost
 
 #endif // BOOST_ALGORITHM_MINMAX_ELEMENT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

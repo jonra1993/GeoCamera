@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2014.
 
@@ -88,6 +89,8 @@ power (T x, Integer n, Operation op) {
 
 #endif // BOOST_ALGORITHM_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2014.
 
@@ -176,4 +179,7 @@ power (T x, Integer n, Operation op) {
 }}
 
 #endif // BOOST_ALGORITHM_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

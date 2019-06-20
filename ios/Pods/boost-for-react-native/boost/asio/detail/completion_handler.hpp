@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/completion_handler.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,6 +84,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_COMPLETION_HANDLER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/completion_handler.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,4 +169,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_COMPLETION_HANDLER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

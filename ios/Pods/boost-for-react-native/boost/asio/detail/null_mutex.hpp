@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/null_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -66,6 +67,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_NULL_MUTEX_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/null_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -132,4 +135,7 @@ public:
 #endif // !defined(BOOST_ASIO_HAS_THREADS)
 
 #endif // BOOST_ASIO_DETAIL_NULL_MUTEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

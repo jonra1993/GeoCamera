@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ///////////////////////////////////////////////////////////////////////////////
 // density.hpp
@@ -250,6 +251,8 @@ struct feature_of<tag::weighted_density>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 
 ///////////////////////////////////////////////////////////////////////////////
 // density.hpp
@@ -500,4 +503,7 @@ struct feature_of<tag::weighted_density>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

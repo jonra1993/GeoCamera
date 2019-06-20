@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_WCSLEN_HPP
 #define BOOST_ARCHIVE_WCSLEN_HPP
 
@@ -56,6 +57,8 @@ namespace std{ using ::wcslen; }
 
 #endif //BOOST_ARCHIVE_WCSLEN_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_WCSLEN_HPP
 #define BOOST_ARCHIVE_WCSLEN_HPP
 
@@ -112,4 +115,7 @@ namespace std{ using ::wcslen; }
 #endif //BOOST_NO_CWCHAR
 
 #endif //BOOST_ARCHIVE_WCSLEN_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/timer_scheduler_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,6 +43,8 @@ typedef class select_reactor timer_scheduler;
 
 #endif // BOOST_ASIO_DETAIL_TIMER_SCHEDULER_FWD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/timer_scheduler_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -84,4 +87,7 @@ typedef class select_reactor timer_scheduler;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_TIMER_SCHEDULER_FWD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

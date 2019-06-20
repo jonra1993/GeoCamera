@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/winrt_socket_send_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,6 +104,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WINRT_SOCKET_SEND_OP_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/winrt_socket_send_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -206,4 +209,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS_RUNTIME)
 
 #endif // BOOST_ASIO_DETAIL_WINRT_SOCKET_SEND_OP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

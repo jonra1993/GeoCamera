@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef  BOOST_SERIALIZER_MAP_HPP
 #define BOOST_SERIALIZER_MAP_HPP
 
@@ -69,6 +70,8 @@ private:
 
 #endif // BOOST_SERIALIZER_MAP_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef  BOOST_SERIALIZER_MAP_HPP
 #define BOOST_SERIALIZER_MAP_HPP
 
@@ -138,4 +141,7 @@ private:
 #include <boost/archive/detail/abi_suffix.hpp> // must be the last header
 
 #endif // BOOST_SERIALIZER_MAP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

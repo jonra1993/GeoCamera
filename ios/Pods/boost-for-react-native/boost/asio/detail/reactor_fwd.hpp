@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/reactor_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -42,6 +43,8 @@ typedef class select_reactor reactor;
 
 #endif // BOOST_ASIO_DETAIL_REACTOR_FWD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/reactor_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -84,4 +87,7 @@ typedef class select_reactor reactor;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_REACTOR_FWD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

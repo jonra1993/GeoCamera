@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BASIC_TEXT_OARCHIVE_HPP
 #define BOOST_ARCHIVE_BASIC_TEXT_OARCHIVE_HPP
 
@@ -119,6 +120,8 @@ protected:
 
 #endif // BOOST_ARCHIVE_BASIC_TEXT_OARCHIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BASIC_TEXT_OARCHIVE_HPP
 #define BOOST_ARCHIVE_BASIC_TEXT_OARCHIVE_HPP
 
@@ -238,4 +241,7 @@ protected:
 #include <boost/archive/detail/abi_suffix.hpp> // pops abi_suffix.hpp pragmas
 
 #endif // BOOST_ARCHIVE_BASIC_TEXT_OARCHIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

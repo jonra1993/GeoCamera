@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/buffer_resize_guard.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,6 +69,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_BUFFER_RESIZE_GUARD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/buffer_resize_guard.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -136,4 +139,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_BUFFER_RESIZE_GUARD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

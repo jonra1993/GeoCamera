@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/null_socket_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -499,6 +500,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_NULL_SOCKET_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/null_socket_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -998,4 +1001,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS_RUNTIME)
 
 #endif // BOOST_ASIO_DETAIL_NULL_SOCKET_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

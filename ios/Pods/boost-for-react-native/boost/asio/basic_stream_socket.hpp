@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_stream_socket.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -854,6 +855,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_STREAM_SOCKET_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_stream_socket.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -1708,4 +1711,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BASIC_STREAM_SOCKET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

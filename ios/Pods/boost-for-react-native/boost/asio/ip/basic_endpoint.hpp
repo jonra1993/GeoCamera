@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // ip/basic_endpoint.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -265,6 +266,8 @@ std::basic_ostream<Elem, Traits>& operator<<(
 
 #endif // BOOST_ASIO_IP_BASIC_ENDPOINT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // ip/basic_endpoint.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -530,4 +533,7 @@ std::basic_ostream<Elem, Traits>& operator<<(
 #include <boost/asio/ip/impl/basic_endpoint.hpp>
 
 #endif // BOOST_ASIO_IP_BASIC_ENDPOINT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

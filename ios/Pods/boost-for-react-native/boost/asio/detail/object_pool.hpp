@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/object_pool.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -148,6 +149,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_OBJECT_POOL_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/object_pool.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -296,4 +299,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_OBJECT_POOL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/winrt_async_manager.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -296,6 +297,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WINRT_ASYNC_MANAGER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/winrt_async_manager.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -592,4 +595,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS_RUNTIME)
 
 #endif // BOOST_ASIO_DETAIL_WINRT_ASYNC_MANAGER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

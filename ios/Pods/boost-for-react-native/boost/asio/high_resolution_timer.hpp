@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // high_resolution_timer.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,6 +66,8 @@ typedef basic_waitable_timer<
 
 #endif // BOOST_ASIO_HIGH_RESOLUTION_TIMER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // high_resolution_timer.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,4 +133,7 @@ typedef basic_waitable_timer<
        //   || defined(GENERATING_DOCUMENTATION)
 
 #endif // BOOST_ASIO_HIGH_RESOLUTION_TIMER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

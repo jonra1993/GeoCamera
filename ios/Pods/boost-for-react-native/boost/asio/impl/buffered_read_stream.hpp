@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/buffered_read_stream.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -360,6 +361,8 @@ std::size_t buffered_read_stream<Stream>::peek(
 
 #endif // BOOST_ASIO_IMPL_BUFFERED_READ_STREAM_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/buffered_read_stream.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -720,4 +723,7 @@ std::size_t buffered_read_stream<Stream>::peek(
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_BUFFERED_READ_STREAM_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/gcc_sync_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,6 +66,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_GCC_SYNC_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/gcc_sync_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,4 +133,7 @@ private:
        // && !defined(__ICC) && !defined(__ECC) && !defined(__PATHSCALE__)
 
 #endif // BOOST_ASIO_DETAIL_GCC_SYNC_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

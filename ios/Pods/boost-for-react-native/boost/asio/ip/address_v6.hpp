@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // ip/address_v6.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -248,6 +249,8 @@ std::basic_ostream<Elem, Traits>& operator<<(
 
 #endif // BOOST_ASIO_IP_ADDRESS_V6_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // ip/address_v6.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -496,4 +499,7 @@ std::basic_ostream<Elem, Traits>& operator<<(
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_IP_ADDRESS_V6_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

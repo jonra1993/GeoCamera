@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_ITERATORS_UNESCAPE_HPP
 #define BOOST_ARCHIVE_ITERATORS_UNESCAPE_HPP
 
@@ -89,6 +90,8 @@ public:
 
 #endif // BOOST_ARCHIVE_ITERATORS_UNESCAPE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_ITERATORS_UNESCAPE_HPP
 #define BOOST_ARCHIVE_ITERATORS_UNESCAPE_HPP
 
@@ -178,4 +181,7 @@ public:
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_ITERATORS_UNESCAPE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/strand_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -144,6 +145,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_STRAND_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/strand_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -288,4 +291,7 @@ private:
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_DETAIL_STRAND_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

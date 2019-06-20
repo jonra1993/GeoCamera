@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // deadline_timer_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -173,6 +174,8 @@ private:
 
 #endif // BOOST_ASIO_DEADLINE_TIMER_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // deadline_timer_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -346,4 +349,7 @@ private:
        // || defined(GENERATING_DOCUMENTATION)
 
 #endif // BOOST_ASIO_DEADLINE_TIMER_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

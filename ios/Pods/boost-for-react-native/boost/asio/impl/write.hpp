@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/write.hpp
 // ~~~~~~~~~~~~~~
@@ -767,6 +768,8 @@ async_write(AsyncWriteStream& s,
 
 #endif // BOOST_ASIO_IMPL_WRITE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/write.hpp
 // ~~~~~~~~~~~~~~
@@ -1534,4 +1537,7 @@ async_write(AsyncWriteStream& s,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_WRITE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

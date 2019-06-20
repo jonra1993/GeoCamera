@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/function.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -40,6 +41,8 @@ using boost::function;
 
 #endif // BOOST_ASIO_DETAIL_FUNCTION_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/function.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -80,4 +83,7 @@ using boost::function;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_FUNCTION_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

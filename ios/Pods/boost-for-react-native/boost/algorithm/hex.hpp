@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -325,6 +326,8 @@ String unhex ( const String &input ) {
 
 #endif // BOOST_ALGORITHM_HEXHPP
 =======
+=======
+>>>>>>> Jona
 /*
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -650,4 +653,7 @@ String unhex ( const String &input ) {
 }}
 
 #endif // BOOST_ALGORITHM_HEXHPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

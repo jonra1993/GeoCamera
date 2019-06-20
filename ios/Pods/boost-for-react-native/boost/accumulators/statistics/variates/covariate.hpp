@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weight.hpp
 //
@@ -25,6 +26,8 @@ BOOST_ACCUMULATORS_IGNORE_GLOBAL(covariate2)
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weight.hpp
 //
@@ -50,4 +53,7 @@ BOOST_ACCUMULATORS_IGNORE_GLOBAL(covariate2)
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

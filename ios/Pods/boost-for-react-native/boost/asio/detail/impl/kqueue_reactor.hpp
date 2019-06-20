@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/impl/kqueue_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,6 +83,8 @@ std::size_t kqueue_reactor::cancel_timer(timer_queue<Time_Traits>& queue,
 
 #endif // BOOST_ASIO_DETAIL_IMPL_KQUEUE_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/impl/kqueue_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -164,4 +167,7 @@ std::size_t kqueue_reactor::cancel_timer(timer_queue<Time_Traits>& queue,
 #endif // defined(BOOST_ASIO_HAS_KQUEUE)
 
 #endif // BOOST_ASIO_DETAIL_IMPL_KQUEUE_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

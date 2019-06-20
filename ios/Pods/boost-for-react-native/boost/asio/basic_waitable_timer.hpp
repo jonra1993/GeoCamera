@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_waitable_timer.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -521,6 +522,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_WAITABLE_TIMER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_waitable_timer.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1042,4 +1045,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BASIC_WAITABLE_TIMER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/hash_map.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -333,6 +334,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_HASH_MAP_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/hash_map.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -666,4 +669,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_HASH_MAP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

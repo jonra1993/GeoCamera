@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -175,6 +176,8 @@ namespace boost { namespace algorithm {
 
 #endif // BOOST_ALGORITHM_CLAMP_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -350,4 +353,7 @@ namespace boost { namespace algorithm {
 }}
 
 #endif // BOOST_ALGORITHM_CLAMP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /////////1/////////2/////////3/////////4/////////5/////////6/////////7/////////8
 // abi_suffix.hpp
 
@@ -15,6 +16,8 @@
 #include <boost/config/abi_suffix.hpp> // pops abi_suffix.hpp pragmas
 
 =======
+=======
+>>>>>>> Jona
 /////////1/////////2/////////3/////////4/////////5/////////6/////////7/////////8
 // abi_suffix.hpp
 
@@ -30,4 +33,7 @@
 #endif
 #include <boost/config/abi_suffix.hpp> // pops abi_suffix.hpp pragmas
 
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

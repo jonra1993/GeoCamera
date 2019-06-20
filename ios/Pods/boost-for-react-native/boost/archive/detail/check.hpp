@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_DETAIL_CHECK_HPP
 #define BOOST_ARCHIVE_DETAIL_CHECK_HPP
 
@@ -169,6 +170,8 @@ inline void check_const_loading(){
 
 #endif // BOOST_ARCHIVE_DETAIL_CHECK_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_DETAIL_CHECK_HPP
 #define BOOST_ARCHIVE_DETAIL_CHECK_HPP
 
@@ -338,4 +341,7 @@ inline void check_const_loading(){
 } // boost
 
 #endif // BOOST_ARCHIVE_DETAIL_CHECK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

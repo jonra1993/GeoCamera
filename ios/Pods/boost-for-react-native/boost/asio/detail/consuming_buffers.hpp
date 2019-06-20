@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/consuming_buffers.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -294,6 +295,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_CONSUMING_BUFFERS_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/consuming_buffers.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -588,4 +591,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_CONSUMING_BUFFERS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -23,6 +24,8 @@ class aligned_allocator_adaptor;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -46,4 +49,7 @@ class aligned_allocator_adaptor;
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

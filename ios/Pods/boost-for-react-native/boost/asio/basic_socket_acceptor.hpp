@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_socket_acceptor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1138,6 +1139,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_SOCKET_ACCEPTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_socket_acceptor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2276,4 +2279,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BASIC_SOCKET_ACCEPTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

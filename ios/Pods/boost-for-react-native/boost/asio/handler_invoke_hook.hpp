@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // handler_invoke_hook.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -87,6 +88,8 @@ inline void asio_handler_invoke(const Function& function, ...)
 
 #endif // BOOST_ASIO_HANDLER_INVOKE_HOOK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // handler_invoke_hook.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -174,4 +177,7 @@ inline void asio_handler_invoke(const Function& function, ...)
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_HANDLER_INVOKE_HOOK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

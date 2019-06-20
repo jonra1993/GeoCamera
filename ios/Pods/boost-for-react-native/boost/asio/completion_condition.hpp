@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // completion_condition.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -220,6 +221,8 @@ inline detail::transfer_exactly_t transfer_exactly(std::size_t size)
 
 #endif // BOOST_ASIO_COMPLETION_CONDITION_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // completion_condition.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -440,4 +443,7 @@ inline detail::transfer_exactly_t transfer_exactly(std::size_t size)
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_COMPLETION_CONDITION_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

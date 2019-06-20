@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library regex.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -646,6 +647,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_REGEX_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library regex.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -1292,4 +1295,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_REGEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

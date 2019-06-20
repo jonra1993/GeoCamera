@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BASIC_XML_GRAMMAR_HPP
 #define BOOST_ARCHIVE_BASIC_XML_GRAMMAR_HPP
 
@@ -173,6 +174,8 @@ public:
 
 #endif // BOOST_ARCHIVE_BASIC_XML_GRAMMAR_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BASIC_XML_GRAMMAR_HPP
 #define BOOST_ARCHIVE_BASIC_XML_GRAMMAR_HPP
 
@@ -346,4 +349,7 @@ public:
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_BASIC_XML_GRAMMAR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

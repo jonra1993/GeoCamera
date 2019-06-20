@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 /// \file functional_fwd.hpp
 ///
@@ -221,6 +222,8 @@ namespace boost { namespace numeric
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 /// \file functional_fwd.hpp
 ///
@@ -442,4 +445,7 @@ namespace boost { namespace numeric
 }} // namespace boost::numeric
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

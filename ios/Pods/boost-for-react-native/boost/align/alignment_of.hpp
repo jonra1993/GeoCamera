@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014-2016 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -52,6 +53,8 @@ constexpr std::size_t alignment_of_v = alignment_of<T>::value;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014-2016 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -104,4 +107,7 @@ constexpr std::size_t alignment_of_v = alignment_of<T>::value;
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BASIC_TEXT_IPRIMITIVE_HPP
 #define BOOST_ARCHIVE_BASIC_TEXT_IPRIMITIVE_HPP
 
@@ -142,6 +143,8 @@ public:
 
 #endif // BOOST_ARCHIVE_BASIC_TEXT_IPRIMITIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BASIC_TEXT_IPRIMITIVE_HPP
 #define BOOST_ARCHIVE_BASIC_TEXT_IPRIMITIVE_HPP
 
@@ -284,4 +287,7 @@ public:
 #include <boost/archive/detail/abi_suffix.hpp> // pop pragmas
 
 #endif // BOOST_ARCHIVE_BASIC_TEXT_IPRIMITIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

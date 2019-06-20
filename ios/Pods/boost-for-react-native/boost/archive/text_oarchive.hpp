@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_TEXT_OARCHIVE_HPP
 #define BOOST_ARCHIVE_TEXT_OARCHIVE_HPP
 
@@ -121,6 +122,8 @@ BOOST_SERIALIZATION_REGISTER_ARCHIVE(boost::archive::text_oarchive)
 
 #endif // BOOST_ARCHIVE_TEXT_OARCHIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_TEXT_OARCHIVE_HPP
 #define BOOST_ARCHIVE_TEXT_OARCHIVE_HPP
 
@@ -242,4 +245,7 @@ BOOST_SERIALIZATION_REGISTER_ARCHIVE(boost::archive::text_oarchive)
 #include <boost/archive/detail/abi_suffix.hpp> // pops abi_suffix.hpp pragmas
 
 #endif // BOOST_ARCHIVE_TEXT_OARCHIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

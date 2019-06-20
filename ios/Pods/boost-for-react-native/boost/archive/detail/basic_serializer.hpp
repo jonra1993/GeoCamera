@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef  BOOST_ARCHIVE_BASIC_SERIALIZER_HPP
 #define BOOST_ARCHIVE_BASIC_SERIALIZER_HPP
 
@@ -77,6 +78,8 @@ public:
 
 #endif // BOOST_ARCHIVE_BASIC_SERIALIZER_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef  BOOST_ARCHIVE_BASIC_SERIALIZER_HPP
 #define BOOST_ARCHIVE_BASIC_SERIALIZER_HPP
 
@@ -154,4 +157,7 @@ public:
 #endif
 
 #endif // BOOST_ARCHIVE_BASIC_SERIALIZER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -65,6 +66,8 @@ typename boost::range_iterator<Range>::type partition_point ( Range &r, Predicat
 
 #endif  // BOOST_ALGORITHM_PARTITION_POINT_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -130,4 +133,7 @@ typename boost::range_iterator<Range>::type partition_point ( Range &r, Predicat
 }}
 
 #endif  // BOOST_ALGORITHM_PARTITION_POINT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

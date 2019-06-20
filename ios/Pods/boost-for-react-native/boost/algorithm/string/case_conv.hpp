@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library case_conv.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -176,6 +177,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_CASE_CONV_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library case_conv.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -352,4 +355,7 @@ namespace boost {
 } // namespace boost
 
 #endif  // BOOST_STRING_CASE_CONV_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

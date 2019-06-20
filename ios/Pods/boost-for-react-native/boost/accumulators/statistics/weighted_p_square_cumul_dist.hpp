@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_p_square_cumul_dist.hpp
 //
@@ -262,6 +263,8 @@ using extract::weighted_p_square_cumulative_distribution;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_p_square_cumul_dist.hpp
 //
@@ -524,4 +527,7 @@ using extract::weighted_p_square_cumulative_distribution;
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

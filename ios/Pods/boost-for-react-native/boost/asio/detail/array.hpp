@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/array.hpp
 // ~~~~~~~~~~~~~~~~
@@ -40,6 +41,8 @@ using boost::array;
 
 #endif // BOOST_ASIO_DETAIL_ARRAY_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/array.hpp
 // ~~~~~~~~~~~~~~~~
@@ -80,4 +83,7 @@ using boost::array;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_ARRAY_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_DETAIL_ISERIALIZER_HPP
 #define BOOST_ARCHIVE_DETAIL_ISERIALIZER_HPP
 
@@ -624,6 +625,8 @@ inline void load(Archive & ar, T &t){
 
 #endif // BOOST_ARCHIVE_DETAIL_ISERIALIZER_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_DETAIL_ISERIALIZER_HPP
 #define BOOST_ARCHIVE_DETAIL_ISERIALIZER_HPP
 
@@ -1248,4 +1251,7 @@ inline void load(Archive & ar, T &t){
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_DETAIL_ISERIALIZER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

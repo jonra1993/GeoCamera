@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/dependent_type.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -38,6 +39,8 @@ struct dependent_type
 
 #endif // BOOST_ASIO_DETAIL_DEPENDENT_TYPE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/dependent_type.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -76,4 +79,7 @@ struct dependent_type
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_DEPENDENT_TYPE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

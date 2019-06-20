@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/socket_holder.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -100,6 +101,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_SOCKET_HOLDER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/socket_holder.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -200,4 +203,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_SOCKET_HOLDER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

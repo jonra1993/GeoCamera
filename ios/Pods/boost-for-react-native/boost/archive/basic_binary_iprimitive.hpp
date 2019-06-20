@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BINARY_IPRIMITIVE_HPP
 #define BOOST_ARCHIVE_BINARY_IPRIMITIVE_HPP
 
@@ -198,6 +199,8 @@ basic_binary_iprimitive<Archive, Elem, Tr>::load_binary(
 
 #endif // BOOST_ARCHIVE_BINARY_IPRIMITIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BINARY_IPRIMITIVE_HPP
 #define BOOST_ARCHIVE_BINARY_IPRIMITIVE_HPP
 
@@ -396,4 +399,7 @@ basic_binary_iprimitive<Archive, Elem, Tr>::load_binary(
 #include <boost/archive/detail/abi_suffix.hpp> // pop pragmas
 
 #endif // BOOST_ARCHIVE_BINARY_IPRIMITIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

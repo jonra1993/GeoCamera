@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/select_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -221,6 +222,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_SELECT_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/select_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -442,4 +445,7 @@ private:
        //       && !defined(BOOST_ASIO_WINDOWS_RUNTIME))
 
 #endif // BOOST_ASIO_DETAIL_SELECT_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // handler_alloc_hook.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -83,6 +84,8 @@ BOOST_ASIO_DECL void asio_handler_deallocate(
 
 #endif // BOOST_ASIO_HANDLER_ALLOC_HOOK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // handler_alloc_hook.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -166,4 +169,7 @@ BOOST_ASIO_DECL void asio_handler_deallocate(
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_HANDLER_ALLOC_HOOK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

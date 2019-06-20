@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_ITERATORS_MB_FROM_WCHAR_HPP
 #define BOOST_ARCHIVE_ITERATORS_MB_FROM_WCHAR_HPP
 
@@ -137,6 +138,8 @@ public:
 
 #endif // BOOST_ARCHIVE_ITERATORS_MB_FROM_WCHAR_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_ITERATORS_MB_FROM_WCHAR_HPP
 #define BOOST_ARCHIVE_ITERATORS_MB_FROM_WCHAR_HPP
 
@@ -274,4 +277,7 @@ public:
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_ITERATORS_MB_FROM_WCHAR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

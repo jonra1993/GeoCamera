@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_TMPDIR_HPP
 #define BOOST_ARCHIVE_TMPDIR_HPP
 
@@ -50,6 +51,8 @@ inline const char * tmpdir(){
 
 #endif // BOOST_ARCHIVE_TMPDIR_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_TMPDIR_HPP
 #define BOOST_ARCHIVE_TMPDIR_HPP
 
@@ -100,4 +103,7 @@ inline const char * tmpdir(){
 } // boost
 
 #endif // BOOST_ARCHIVE_TMPDIR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

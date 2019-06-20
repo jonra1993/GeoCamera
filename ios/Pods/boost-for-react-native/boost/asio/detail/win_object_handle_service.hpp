@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/win_object_handle_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -185,6 +186,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WIN_OBJECT_HANDLE_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/win_object_handle_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -370,4 +373,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_WINDOWS_OBJECT_HANDLE)
 
 #endif // BOOST_ASIO_DETAIL_WIN_OBJECT_HANDLE_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

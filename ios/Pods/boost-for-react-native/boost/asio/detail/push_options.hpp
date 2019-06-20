@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/push_options.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,6 +167,8 @@
 
 #endif
 =======
+=======
+>>>>>>> Jona
 //
 // detail/push_options.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -332,4 +335,7 @@
 # endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

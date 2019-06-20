@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/regex_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -35,6 +36,8 @@ class match_results;
 
 #endif // BOOST_ASIO_DETAIL_REGEX_FWD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/regex_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -70,4 +73,7 @@ class match_results;
 #endif // defined(BOOST_ASIO_HAS_BOOST_REGEX)
 
 #endif // BOOST_ASIO_DETAIL_REGEX_FWD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

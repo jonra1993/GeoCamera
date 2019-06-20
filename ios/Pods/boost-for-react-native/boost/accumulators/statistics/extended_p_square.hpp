@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // extended_p_square.hpp
 //
@@ -295,6 +296,8 @@ struct feature_of<tag::weighted_extended_p_square>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // extended_p_square.hpp
 //
@@ -590,4 +593,7 @@ struct feature_of<tag::weighted_extended_p_square>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

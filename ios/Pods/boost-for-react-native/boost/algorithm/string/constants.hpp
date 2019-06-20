@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library constants.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -36,6 +37,8 @@ namespace boost {
 #endif  // BOOST_STRING_CONSTANTS_HPP
 
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library constants.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -72,4 +75,7 @@ namespace boost {
 
 #endif  // BOOST_STRING_CONSTANTS_HPP
 
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

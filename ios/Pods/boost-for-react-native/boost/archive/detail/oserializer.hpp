@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_OSERIALIZER_HPP
 #define BOOST_ARCHIVE_OSERIALIZER_HPP
 
@@ -532,6 +533,8 @@ inline void save(Archive & ar, /*const*/ T &t){
 
 #endif // BOOST_ARCHIVE_OSERIALIZER_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_OSERIALIZER_HPP
 #define BOOST_ARCHIVE_OSERIALIZER_HPP
 
@@ -1064,4 +1067,7 @@ inline void save(Archive & ar, /*const*/ T &t){
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_OSERIALIZER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -64,6 +65,8 @@ std::pair<InputIterator1, InputIterator2> mismatch (
 
 #endif // BOOST_ALGORITHM_MISMATCH_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -128,4 +131,7 @@ std::pair<InputIterator1, InputIterator2> mismatch (
 }} // namespace boost and algorithm
 
 #endif // BOOST_ALGORITHM_MISMATCH_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

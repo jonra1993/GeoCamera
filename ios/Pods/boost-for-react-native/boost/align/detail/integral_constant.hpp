@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014-2016 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -46,6 +47,8 @@ struct integral_constant {
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014-2016 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -92,4 +95,7 @@ struct integral_constant {
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

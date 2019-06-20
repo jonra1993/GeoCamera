@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/variadic_templates.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,6 +64,8 @@
 
 #endif // BOOST_ASIO_DETAIL_VARIADIC_TEMPLATES_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/variadic_templates.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,4 +129,7 @@
 #endif // !defined(BOOST_ASIO_HAS_VARIADIC_TEMPLATES)
 
 #endif // BOOST_ASIO_DETAIL_VARIADIC_TEMPLATES_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

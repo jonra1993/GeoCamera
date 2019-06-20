@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Copyright David Abrahams 2006. Distributed under the Boost
 // Software License, Version 1.0. (See accompanying
 // file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
@@ -148,6 +149,8 @@ struct function_name
 
 //#endif // BOOST_DETAIL_FUNCTION_N_DWA2006514_HPP
 =======
+=======
+>>>>>>> Jona
 // Copyright David Abrahams 2006. Distributed under the Boost
 // Software License, Version 1.0. (See accompanying
 // file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
@@ -296,4 +299,7 @@ struct function_name
 }} // namespace boost::detail
 
 //#endif // BOOST_DETAIL_FUNCTION_N_DWA2006514_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

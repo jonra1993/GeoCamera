@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/thread.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -58,6 +59,8 @@ typedef std_thread thread;
 
 #endif // BOOST_ASIO_DETAIL_THREAD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/thread.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -116,4 +119,7 @@ typedef std_thread thread;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_THREAD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

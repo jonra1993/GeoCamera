@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/pop_options.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -131,6 +132,8 @@
 
 #endif
 =======
+=======
+>>>>>>> Jona
 //
 // detail/pop_options.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -262,4 +265,7 @@
 # endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

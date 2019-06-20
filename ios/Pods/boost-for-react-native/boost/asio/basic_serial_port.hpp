@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_serial_port.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -697,6 +698,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_SERIAL_PORT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_serial_port.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -1394,4 +1397,7 @@ public:
        //   || defined(GENERATING_DOCUMENTATION)
 
 #endif // BOOST_ASIO_BASIC_SERIAL_PORT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/null_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,6 +70,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_NULL_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/null_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -138,4 +141,7 @@ public:
 #endif // defined(BOOST_ASIO_WINDOWS_RUNTIME)
 
 #endif // BOOST_ASIO_DETAIL_NULL_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

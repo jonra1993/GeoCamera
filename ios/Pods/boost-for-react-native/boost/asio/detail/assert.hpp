@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/assert.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -32,6 +33,8 @@
 
 #endif // BOOST_ASIO_DETAIL_ASSERT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/assert.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -64,4 +67,7 @@
 #endif // defined(BOOST_ASIO_HAS_BOOST_ASSERT)
 
 #endif // BOOST_ASIO_DETAIL_ASSERT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

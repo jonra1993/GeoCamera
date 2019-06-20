@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_datagram_socket.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -951,6 +952,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_DATAGRAM_SOCKET_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_datagram_socket.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1902,4 +1905,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BASIC_DATAGRAM_SOCKET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_seq_packet_socket.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -567,6 +568,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_SEQ_PACKET_SOCKET_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_seq_packet_socket.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1134,4 +1137,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BASIC_SEQ_PACKET_SOCKET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

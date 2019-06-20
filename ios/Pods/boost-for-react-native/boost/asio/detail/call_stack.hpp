@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/call_stack.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -127,6 +128,8 @@ call_stack<Key, Value>::top_;
 
 #endif // BOOST_ASIO_DETAIL_CALL_STACK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/call_stack.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -254,4 +257,7 @@ call_stack<Key, Value>::top_;
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_CALL_STACK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

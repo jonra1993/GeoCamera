@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/keyword_tss_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,6 +73,8 @@ BOOST_ASIO_THREAD_KEYWORD T* keyword_tss_ptr<T>::value_;
 
 #endif // BOOST_ASIO_DETAIL_KEYWORD_TSS_PTR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/keyword_tss_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -144,4 +147,7 @@ BOOST_ASIO_THREAD_KEYWORD T* keyword_tss_ptr<T>::value_;
 #endif // defined(BOOST_ASIO_HAS_THREAD_KEYWORD_EXTENSION)
 
 #endif // BOOST_ASIO_DETAIL_KEYWORD_TSS_PTR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

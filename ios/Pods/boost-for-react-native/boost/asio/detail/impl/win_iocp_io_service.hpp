@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/impl/win_iocp_io_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -132,6 +133,8 @@ std::size_t win_iocp_io_service::cancel_timer(timer_queue<Time_Traits>& queue,
 
 #endif // BOOST_ASIO_DETAIL_IMPL_WIN_IOCP_IO_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/impl/win_iocp_io_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -264,4 +267,7 @@ std::size_t win_iocp_io_service::cancel_timer(timer_queue<Time_Traits>& queue,
 #endif // defined(BOOST_ASIO_HAS_IOCP)
 
 #endif // BOOST_ASIO_DETAIL_IMPL_WIN_IOCP_IO_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

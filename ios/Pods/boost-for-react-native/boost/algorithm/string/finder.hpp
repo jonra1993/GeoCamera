@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library finder.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -270,6 +271,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_FINDER_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library finder.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -540,4 +543,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_FINDER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

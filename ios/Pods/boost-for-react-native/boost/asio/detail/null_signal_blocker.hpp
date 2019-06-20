@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/null_signal_blocker.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -71,6 +72,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_NULL_SIGNAL_BLOCKER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/null_signal_blocker.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -142,4 +145,7 @@ public:
        // || defined(__SYMBIAN32__)
 
 #endif // BOOST_ASIO_DETAIL_NULL_SIGNAL_BLOCKER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

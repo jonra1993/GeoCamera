@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_ITERATORS_XML_ESCAPE_HPP
 #define BOOST_ARCHIVE_ITERATORS_XML_ESCAPE_HPP
 
@@ -121,6 +122,8 @@ wchar_t xml_escape<Base>::fill(
 
 #endif // BOOST_ARCHIVE_ITERATORS_XML_ESCAPE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_ITERATORS_XML_ESCAPE_HPP
 #define BOOST_ARCHIVE_ITERATORS_XML_ESCAPE_HPP
 
@@ -242,4 +245,7 @@ wchar_t xml_escape<Base>::fill(
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_ITERATORS_XML_ESCAPE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

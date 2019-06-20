@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
   Copyright (c) Alexander Zaitsev <zamazan4ik@gmail.com>, 2016
 
@@ -161,6 +162,8 @@ bool is_palindrome(const char* str, Predicate p)
 
 #endif // BOOST_ALGORITHM_IS_PALINDROME_HPP
 =======
+=======
+>>>>>>> Jona
 /*
   Copyright (c) Alexander Zaitsev <zamazan4ik@gmail.com>, 2016
 
@@ -322,4 +325,7 @@ bool is_palindrome(const char* str, Predicate p)
 }}
 
 #endif // BOOST_ALGORITHM_IS_PALINDROME_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

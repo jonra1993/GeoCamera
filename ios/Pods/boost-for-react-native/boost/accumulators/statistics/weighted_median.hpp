@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_median.hpp
 //
@@ -237,6 +238,8 @@ struct as_feature<tag::weighted_median(with_p_square_cumulative_distribution)>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_median.hpp
 //
@@ -474,4 +477,7 @@ struct as_feature<tag::weighted_median(with_p_square_cumulative_distribution)>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

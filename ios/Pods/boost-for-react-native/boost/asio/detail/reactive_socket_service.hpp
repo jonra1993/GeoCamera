@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/reactive_socket_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -459,6 +460,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_REACTIVE_SOCKET_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/reactive_socket_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -918,4 +921,7 @@ public:
 #endif // !defined(BOOST_ASIO_HAS_IOCP)
 
 #endif // BOOST_ASIO_DETAIL_REACTIVE_SOCKET_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

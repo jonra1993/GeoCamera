@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/eventfd_select_interrupter.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,6 +86,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_EVENTFD_SELECT_INTERRUPTER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/eventfd_select_interrupter.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -170,4 +173,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_EVENTFD)
 
 #endif // BOOST_ASIO_DETAIL_EVENTFD_SELECT_INTERRUPTER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

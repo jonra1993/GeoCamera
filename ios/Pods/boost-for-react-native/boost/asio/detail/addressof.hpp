@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/addressof.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -40,6 +41,8 @@ using boost::addressof;
 
 #endif // BOOST_ASIO_DETAIL_ADDRESSOF_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/addressof.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -80,4 +83,7 @@ using boost::addressof;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_ADDRESSOF_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -98,6 +99,8 @@ bool equal ( InputIterator1 first1, InputIterator1 last1,
 
 #endif // BOOST_ALGORITHM_EQUAL_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -196,4 +199,7 @@ bool equal ( InputIterator1 first1, InputIterator1 last1,
 }} // namespace boost and algorithm
 
 #endif // BOOST_ALGORITHM_EQUAL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

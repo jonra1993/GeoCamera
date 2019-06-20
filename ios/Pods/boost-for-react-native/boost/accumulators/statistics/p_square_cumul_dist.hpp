@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // p_square_cumulative_distribution.hpp
 //
@@ -263,6 +264,8 @@ struct feature_of<tag::weighted_p_square_cumulative_distribution>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // p_square_cumulative_distribution.hpp
 //
@@ -526,4 +529,7 @@ struct feature_of<tag::weighted_p_square_cumulative_distribution>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

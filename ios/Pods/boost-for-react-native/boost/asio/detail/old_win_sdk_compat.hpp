@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/old_win_sdk_compat.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -216,6 +217,8 @@ struct addrinfo_emulation
 
 #endif // BOOST_ASIO_DETAIL_OLD_WIN_SDK_COMPAT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/old_win_sdk_compat.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -432,4 +435,7 @@ struct addrinfo_emulation
 #endif // defined(BOOST_ASIO_WINDOWS) || defined(__CYGWIN__)
 
 #endif // BOOST_ASIO_DETAIL_OLD_WIN_SDK_COMPAT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

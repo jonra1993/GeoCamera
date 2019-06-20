@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // generic/basic_endpoint.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -195,6 +196,8 @@ private:
 
 #endif // BOOST_ASIO_GENERIC_BASIC_ENDPOINT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // generic/basic_endpoint.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -390,4 +393,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_GENERIC_BASIC_ENDPOINT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

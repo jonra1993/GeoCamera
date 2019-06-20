@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_SERIALIZATION_BASIC_OSERIALIZER_HPP
 #define BOOST_SERIALIZATION_BASIC_OSERIALIZER_HPP
 
@@ -89,6 +90,8 @@ public:
 
 #endif // BOOST_SERIALIZATION_BASIC_OSERIALIZER_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_SERIALIZATION_BASIC_OSERIALIZER_HPP
 #define BOOST_SERIALIZATION_BASIC_OSERIALIZER_HPP
 
@@ -178,4 +181,7 @@ public:
 #include <boost/archive/detail/abi_suffix.hpp> // pops abi_suffix.hpp pragmas
 
 #endif // BOOST_SERIALIZATION_BASIC_OSERIALIZER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

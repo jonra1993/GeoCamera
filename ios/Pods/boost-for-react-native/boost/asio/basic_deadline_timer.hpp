@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_deadline_timer.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -520,6 +521,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_DEADLINE_TIMER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_deadline_timer.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1040,4 +1043,7 @@ public:
        // || defined(GENERATING_DOCUMENTATION)
 
 #endif // BOOST_ASIO_BASIC_DEADLINE_TIMER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

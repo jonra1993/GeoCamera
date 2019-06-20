@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/io_control.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -136,6 +137,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_IO_CONTROL_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/io_control.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -272,4 +275,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_IO_CONTROL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

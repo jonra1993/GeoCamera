@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/throw_error.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -55,6 +56,8 @@ inline void throw_error(const boost::system::error_code& err,
 
 #endif // BOOST_ASIO_DETAIL_THROW_ERROR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/throw_error.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -110,4 +113,7 @@ inline void throw_error(const boost::system::error_code& err,
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_DETAIL_THROW_ERROR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

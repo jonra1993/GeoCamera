@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/resolve_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -133,6 +134,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_RESOLVE_OP_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/resolve_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -266,4 +269,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_RESOLVE_OP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

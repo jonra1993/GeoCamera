@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/std_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -67,6 +68,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_STD_THREAD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/std_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -134,4 +137,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_STD_THREAD)
 
 #endif // BOOST_ASIO_DETAIL_STD_THREAD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

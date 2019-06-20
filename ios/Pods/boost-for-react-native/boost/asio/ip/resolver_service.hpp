@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // ip/resolver_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -178,6 +179,8 @@ private:
 
 #endif // BOOST_ASIO_IP_RESOLVER_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // ip/resolver_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -356,4 +359,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IP_RESOLVER_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

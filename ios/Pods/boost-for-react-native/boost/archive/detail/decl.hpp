@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_DETAIL_DECL_HPP
 #define BOOST_ARCHIVE_DETAIL_DECL_HPP 
 
@@ -57,6 +58,8 @@
 
 #endif // BOOST_ARCHIVE_DETAIL_DECL_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_DETAIL_DECL_HPP
 #define BOOST_ARCHIVE_DETAIL_DECL_HPP 
 
@@ -114,4 +117,7 @@
 #endif
 
 #endif // BOOST_ARCHIVE_DETAIL_DECL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

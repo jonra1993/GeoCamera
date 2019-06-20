@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // tail_mean.hpp
 //
@@ -246,6 +247,8 @@ struct feature_of<tag::non_coherent_weighted_tail_mean<LeftRight> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // tail_mean.hpp
 //
@@ -492,4 +495,7 @@ struct feature_of<tag::non_coherent_weighted_tail_mean<LeftRight> >
 #endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

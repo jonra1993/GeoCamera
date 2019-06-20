@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2015 NumScale SAS
 (c) 2015 LRI UMR 8623 CNRS/University Paris Sud XI
@@ -18,6 +19,8 @@ __assume_aligned((p), (n))
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2015 NumScale SAS
 (c) 2015 LRI UMR 8623 CNRS/University Paris Sud XI
@@ -36,4 +39,7 @@ http://boost.org/LICENSE_1_0.txt
 __assume_aligned((p), (n))
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_ITERATORS_WCHAR_FROM_MB_HPP
 #define BOOST_ARCHIVE_ITERATORS_WCHAR_FROM_MB_HPP
 
@@ -192,6 +193,8 @@ void wchar_from_mb<Base>::drain(){
 
 #endif // BOOST_ARCHIVE_ITERATORS_WCHAR_FROM_MB_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_ITERATORS_WCHAR_FROM_MB_HPP
 #define BOOST_ARCHIVE_ITERATORS_WCHAR_FROM_MB_HPP
 
@@ -384,4 +387,7 @@ void wchar_from_mb<Base>::drain(){
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_ITERATORS_WCHAR_FROM_MB_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/descriptor_ops.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,6 +120,8 @@ BOOST_ASIO_DECL int poll_write(int d,
 
 #endif // BOOST_ASIO_DETAIL_DESCRIPTOR_OPS_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/descriptor_ops.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -238,4 +241,7 @@ BOOST_ASIO_DECL int poll_write(int d,
        //   && !defined(__CYGWIN__)
 
 #endif // BOOST_ASIO_DETAIL_DESCRIPTOR_OPS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

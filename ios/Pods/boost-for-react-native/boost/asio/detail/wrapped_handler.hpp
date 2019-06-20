@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/wrapped_handler.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -293,6 +294,8 @@ inline void asio_handler_invoke(const Function& function,
 
 #endif // BOOST_ASIO_DETAIL_WRAPPED_HANDLER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/wrapped_handler.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -586,4 +589,7 @@ inline void asio_handler_invoke(const Function& function,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_WRAPPED_HANDLER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

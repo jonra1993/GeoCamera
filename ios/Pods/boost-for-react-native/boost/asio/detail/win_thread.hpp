@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/win_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -145,6 +146,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WIN_THREAD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/win_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -290,4 +293,7 @@ private:
        // && !defined(UNDER_CE)
 
 #endif // BOOST_ASIO_DETAIL_WIN_THREAD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

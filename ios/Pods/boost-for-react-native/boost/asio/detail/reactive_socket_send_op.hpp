@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/reactive_socket_send_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,6 +123,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_REACTIVE_SOCKET_SEND_OP_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/reactive_socket_send_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -244,4 +247,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_REACTIVE_SOCKET_SEND_OP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

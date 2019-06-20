@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_XML_ARCHIVE_EXCEPTION_HPP
 #define BOOST_ARCHIVE_XML_ARCHIVE_EXCEPTION_HPP
 
@@ -57,6 +58,8 @@ public:
 
 #endif //BOOST_XML_ARCHIVE_ARCHIVE_EXCEPTION_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_XML_ARCHIVE_EXCEPTION_HPP
 #define BOOST_ARCHIVE_XML_ARCHIVE_EXCEPTION_HPP
 
@@ -114,4 +117,7 @@ public:
 #include <boost/archive/detail/abi_suffix.hpp> // pops abi_suffix.hpp pragmas
 
 #endif //BOOST_XML_ARCHIVE_ARCHIVE_EXCEPTION_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

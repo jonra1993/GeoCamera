@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
     Copyright 2008 Adobe Systems Incorporated
 
@@ -123,6 +124,8 @@ gather (
 #endif
 
 =======
+=======
+>>>>>>> Jona
 /* 
     Copyright 2008 Adobe Systems Incorporated
 
@@ -246,4 +249,7 @@ gather (
 
 #endif
 
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

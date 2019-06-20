@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/impl/epoll_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,6 +79,8 @@ std::size_t epoll_reactor::cancel_timer(timer_queue<Time_Traits>& queue,
 
 #endif // BOOST_ASIO_DETAIL_IMPL_EPOLL_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/impl/epoll_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -156,4 +159,7 @@ std::size_t epoll_reactor::cancel_timer(timer_queue<Time_Traits>& queue,
 #endif // defined(BOOST_ASIO_HAS_EPOLL)
 
 #endif // BOOST_ASIO_DETAIL_IMPL_EPOLL_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

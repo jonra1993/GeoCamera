@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/impl/task_io_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,6 +81,8 @@ void task_io_service::post(Handler& handler)
 
 #endif // BOOST_ASIO_DETAIL_IMPL_TASK_IO_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/impl/task_io_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -160,4 +163,7 @@ void task_io_service::post(Handler& handler)
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_IMPL_TASK_IO_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_tail_variate_means.hpp
 //
@@ -242,6 +243,8 @@ struct as_feature<tag::weighted_tail_variate_means<LeftRight, VariateType, Varia
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_tail_variate_means.hpp
 //
@@ -484,4 +487,7 @@ struct as_feature<tag::weighted_tail_variate_means<LeftRight, VariateType, Varia
 #endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

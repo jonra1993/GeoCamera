@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 /// \file stats.hpp
 /// Contains the stats<> template.
@@ -29,6 +30,8 @@ struct stats
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 /// \file stats.hpp
 /// Contains the stats<> template.
@@ -58,4 +61,7 @@ struct stats
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

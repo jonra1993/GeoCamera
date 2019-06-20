@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // peaks_over_threshold.hpp
 //
@@ -405,6 +406,8 @@ struct feature_of<tag::weighted_peaks_over_threshold_prob<LeftRight> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // peaks_over_threshold.hpp
 //
@@ -810,4 +813,7 @@ struct feature_of<tag::weighted_peaks_over_threshold_prob<LeftRight> >
 #endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

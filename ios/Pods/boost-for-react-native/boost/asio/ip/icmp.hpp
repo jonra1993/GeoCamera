@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // ip/icmp.hpp
 // ~~~~~~~~~~~
@@ -117,6 +118,8 @@ private:
 
 #endif // BOOST_ASIO_IP_ICMP_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // ip/icmp.hpp
 // ~~~~~~~~~~~
@@ -234,4 +237,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IP_ICMP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

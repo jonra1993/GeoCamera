@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/impl/strand_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,6 +121,8 @@ void strand_service::post(strand_service::implementation_type& impl,
 
 #endif // BOOST_ASIO_DETAIL_IMPL_STRAND_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/impl/strand_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -240,4 +243,7 @@ void strand_service::post(strand_service::implementation_type& impl,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_IMPL_STRAND_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

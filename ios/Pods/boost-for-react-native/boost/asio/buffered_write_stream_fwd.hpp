@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // buffered_write_stream_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -27,6 +28,8 @@ class buffered_write_stream;
 
 #endif // BOOST_ASIO_BUFFERED_WRITE_STREAM_FWD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // buffered_write_stream_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,4 +57,7 @@ class buffered_write_stream;
 } // namespace boost
 
 #endif // BOOST_ASIO_BUFFERED_WRITE_STREAM_FWD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

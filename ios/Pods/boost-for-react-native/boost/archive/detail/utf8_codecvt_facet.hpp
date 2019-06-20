@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Copyright (c) 2001 Ronald Garcia, Indiana University (garcia@osl.iu.edu)
 // Andrew Lumsdaine, Indiana University (lums@osl.iu.edu).
 // Distributed under the Boost Software License, Version 1.0. (See
@@ -34,6 +35,8 @@
 #endif // BOOST_NO_CXX11_HDR_CODECVT
 #endif // BOOST_ARCHIVE_DETAIL_UTF8_CODECVT_FACET_HPP
 =======
+=======
+>>>>>>> Jona
 // Copyright (c) 2001 Ronald Garcia, Indiana University (garcia@osl.iu.edu)
 // Andrew Lumsdaine, Indiana University (lums@osl.iu.edu).
 // Distributed under the Boost Software License, Version 1.0. (See
@@ -68,4 +71,7 @@
     } } }
 #endif // BOOST_NO_CXX11_HDR_CODECVT
 #endif // BOOST_ARCHIVE_DETAIL_UTF8_CODECVT_FACET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

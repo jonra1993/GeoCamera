@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // pot_tail_mean.hpp
 //
@@ -211,6 +212,8 @@ struct feature_of<tag::weighted_pot_tail_mean_prob<LeftRight> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // pot_tail_mean.hpp
 //
@@ -422,4 +425,7 @@ struct feature_of<tag::weighted_pot_tail_mean_prob<LeftRight> >
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

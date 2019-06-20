@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/spawn.hpp
 // ~~~~~~~~~~~~~~
@@ -355,6 +356,8 @@ void spawn(boost::asio::io_service& io_service,
 
 #endif // BOOST_ASIO_IMPL_SPAWN_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/spawn.hpp
 // ~~~~~~~~~~~~~~
@@ -710,4 +713,7 @@ void spawn(boost::asio::io_service& io_service,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_SPAWN_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

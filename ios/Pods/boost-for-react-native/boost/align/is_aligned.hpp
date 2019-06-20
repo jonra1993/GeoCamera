@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -27,6 +28,8 @@ BOOST_CONSTEXPR inline bool is_aligned(std::size_t value,
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -54,4 +57,7 @@ BOOST_CONSTEXPR inline bool is_aligned(std::size_t value,
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

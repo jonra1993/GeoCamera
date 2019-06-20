@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -65,6 +66,8 @@ OutputIterator iota_n ( OutputIterator out, T value, std::size_t n )
 
 #endif  // BOOST_ALGORITHM_IOTA_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -130,4 +133,7 @@ OutputIterator iota_n ( OutputIterator out, T value, std::size_t n )
 }}
 
 #endif  // BOOST_ALGORITHM_IOTA_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // kurtosis.hpp
 //
@@ -112,6 +113,8 @@ struct feature_of<tag::weighted_kurtosis>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // kurtosis.hpp
 //
@@ -224,4 +227,7 @@ struct feature_of<tag::weighted_kurtosis>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

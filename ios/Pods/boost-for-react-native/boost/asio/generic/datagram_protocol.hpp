@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // generic/datagram_protocol.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -125,6 +126,8 @@ private:
 
 #endif // BOOST_ASIO_GENERIC_DATAGRAM_PROTOCOL_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // generic/datagram_protocol.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -250,4 +253,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_GENERIC_DATAGRAM_PROTOCOL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

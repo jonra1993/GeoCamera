@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BASIC_BINARY_OPRIMITIVE_HPP
 #define BOOST_ARCHIVE_BASIC_BINARY_OPRIMITIVE_HPP
 
@@ -188,6 +189,8 @@ basic_binary_oprimitive<Archive, Elem, Tr>::save_binary(
 
 #endif // BOOST_ARCHIVE_BASIC_BINARY_OPRIMITIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BASIC_BINARY_OPRIMITIVE_HPP
 #define BOOST_ARCHIVE_BASIC_BINARY_OPRIMITIVE_HPP
 
@@ -376,4 +379,7 @@ basic_binary_oprimitive<Archive, Elem, Tr>::save_binary(
 #include <boost/archive/detail/abi_suffix.hpp> // pop pragmas
 
 #endif // BOOST_ARCHIVE_BASIC_BINARY_OPRIMITIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

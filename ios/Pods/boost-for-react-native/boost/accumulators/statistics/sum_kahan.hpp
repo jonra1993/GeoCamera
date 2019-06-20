@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // sum_kahan.hpp
 //
@@ -188,6 +189,8 @@ struct feature_of<tag::sum_of_variates_kahan<VariateType, VariateTag> >
 #endif
 
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // sum_kahan.hpp
 //
@@ -376,4 +379,7 @@ struct feature_of<tag::sum_of_variates_kahan<VariateType, VariateTag> >
 
 #endif
 
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

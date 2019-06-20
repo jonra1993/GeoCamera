@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // tail_quantile.hpp
 //
@@ -158,6 +159,8 @@ struct feature_of<tag::weighted_tail_quantile<LeftRight> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // tail_quantile.hpp
 //
@@ -316,4 +319,7 @@ struct feature_of<tag::weighted_tail_quantile<LeftRight> >
 #endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

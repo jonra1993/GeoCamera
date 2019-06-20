@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/timer_queue_set.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,6 +69,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_TIMER_QUEUE_SET_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/timer_queue_set.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -136,4 +139,7 @@ private:
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_DETAIL_TIMER_QUEUE_SET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

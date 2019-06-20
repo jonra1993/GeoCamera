@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/signal_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -51,6 +52,8 @@ protected:
 
 #endif // BOOST_ASIO_DETAIL_SIGNAL_OP_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/signal_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -102,4 +105,7 @@ protected:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_SIGNAL_OP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

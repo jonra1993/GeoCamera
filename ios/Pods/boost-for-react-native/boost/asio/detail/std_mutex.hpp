@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/std_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -75,6 +76,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_STD_MUTEX_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/std_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -150,4 +153,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_STD_MUTEX_AND_CONDVAR)
 
 #endif // BOOST_ASIO_DETAIL_STD_MUTEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

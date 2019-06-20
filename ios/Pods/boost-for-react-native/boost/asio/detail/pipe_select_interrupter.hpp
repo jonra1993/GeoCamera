@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/pipe_select_interrupter.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,6 +92,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_PIPE_SELECT_INTERRUPTER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/pipe_select_interrupter.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -182,4 +185,7 @@ private:
 #endif // !defined(BOOST_ASIO_WINDOWS)
 
 #endif // BOOST_ASIO_DETAIL_PIPE_SELECT_INTERRUPTER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

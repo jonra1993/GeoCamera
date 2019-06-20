@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/null_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -63,6 +64,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_NULL_THREAD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/null_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -126,4 +129,7 @@ public:
 #endif // !defined(BOOST_ASIO_HAS_THREADS)
 
 #endif // BOOST_ASIO_DETAIL_NULL_THREAD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

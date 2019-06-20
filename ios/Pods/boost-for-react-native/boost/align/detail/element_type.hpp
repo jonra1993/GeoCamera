@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2015 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -93,6 +94,8 @@ struct element_type
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2015 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -186,4 +189,7 @@ struct element_type
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

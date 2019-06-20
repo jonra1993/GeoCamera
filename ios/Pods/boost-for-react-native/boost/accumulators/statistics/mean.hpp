@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // mean.hpp
 //
@@ -298,6 +299,8 @@ struct feature_of<tag::immediate_weighted_mean_of_variates<VariateType, VariateT
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // mean.hpp
 //
@@ -596,4 +599,7 @@ struct feature_of<tag::immediate_weighted_mean_of_variates<VariateType, VariateT
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

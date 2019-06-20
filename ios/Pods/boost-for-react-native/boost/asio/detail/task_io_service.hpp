@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/task_io_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -203,6 +204,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_TASK_IO_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/task_io_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -406,4 +409,7 @@ private:
 #endif // !defined(BOOST_ASIO_HAS_IOCP)
 
 #endif // BOOST_ASIO_DETAIL_TASK_IO_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // skewness.hpp
 //
@@ -114,6 +115,8 @@ struct feature_of<tag::weighted_skewness>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // skewness.hpp
 //
@@ -228,4 +231,7 @@ struct feature_of<tag::weighted_skewness>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

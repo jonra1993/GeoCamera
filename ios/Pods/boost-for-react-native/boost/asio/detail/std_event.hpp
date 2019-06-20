@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/std_event.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -178,6 +179,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_STD_EVENT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/std_event.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -356,4 +359,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_STD_MUTEX_AND_CONDVAR)
 
 #endif // BOOST_ASIO_DETAIL_STD_EVENT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

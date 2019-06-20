@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* The following code declares class array,
  * an STL container (as wrapper) for arrays of constant size.
  *
@@ -446,6 +447,8 @@ namespace boost {
 
 #endif /*BOOST_ARRAY_HPP*/
 =======
+=======
+>>>>>>> Jona
 /* The following code declares class array,
  * an STL container (as wrapper) for arrays of constant size.
  *
@@ -892,4 +895,7 @@ namespace boost {
 #endif 
 
 #endif /*BOOST_ARRAY_HPP*/
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

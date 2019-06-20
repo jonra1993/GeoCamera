@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/macos_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,6 +64,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_MACOS_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/macos_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,4 +129,7 @@ public:
 #endif // defined(__MACH__) && defined(__APPLE__)
 
 #endif // BOOST_ASIO_DETAIL_MACOS_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

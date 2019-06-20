@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -51,6 +52,8 @@ typename boost::range_iterator<const Range>::type find_if_not ( const Range &r, 
 }}
 #endif  // BOOST_ALGORITHM_FIND_IF_NOT_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -102,4 +105,7 @@ typename boost::range_iterator<const Range>::type find_if_not ( const Range &r, 
 
 }}
 #endif  // BOOST_ALGORITHM_FIND_IF_NOT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

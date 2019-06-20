@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 /// \file accumulators.hpp
 /// Includes all of the Accumulators Framework
@@ -27,6 +28,8 @@
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 /// \file accumulators.hpp
 /// Includes all of the Accumulators Framework
@@ -54,4 +57,7 @@
 #include <boost/accumulators/framework/accumulators/value_accumulator.hpp>
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

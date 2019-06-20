@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // async_result.hpp
 // ~~~~~~~~~~~~~~~~
@@ -96,6 +97,8 @@ struct async_result_type_helper
 
 #endif // BOOST_ASIO_ASYNC_RESULT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // async_result.hpp
 // ~~~~~~~~~~~~~~~~
@@ -192,4 +195,7 @@ struct async_result_type_helper
 #endif
 
 #endif // BOOST_ASIO_ASYNC_RESULT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

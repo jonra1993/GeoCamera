@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // sum.hpp
 //
@@ -141,6 +142,8 @@ struct feature_of<tag::sum_of_variates<VariateType, VariateTag> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // sum.hpp
 //
@@ -282,4 +285,7 @@ struct feature_of<tag::sum_of_variates<VariateType, VariateTag> >
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

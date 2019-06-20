@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library string_traits.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -81,6 +82,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_ROPE_TRAITS_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library string_traits.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -162,4 +165,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_ROPE_TRAITS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

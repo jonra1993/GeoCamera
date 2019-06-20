@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // variance.hpp
 //
@@ -236,6 +237,8 @@ struct feature_of<tag::lazy_weighted_variance>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // variance.hpp
 //
@@ -472,4 +475,7 @@ struct feature_of<tag::lazy_weighted_variance>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/src.hpp
 // ~~~~~~~~~~~~
@@ -73,6 +74,8 @@
 
 #endif // BOOST_ASIO_IMPL_SRC_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/src.hpp
 // ~~~~~~~~~~~~
@@ -146,4 +149,7 @@
 #include <boost/asio/local/detail/impl/endpoint.ipp>
 
 #endif // BOOST_ASIO_IMPL_SRC_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

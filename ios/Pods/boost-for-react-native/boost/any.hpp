@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // See http://www.boost.org/libs/any for Documentation.
 
 #ifndef BOOST_ANY_INCLUDED
@@ -325,6 +326,8 @@ namespace boost
 
 #endif
 =======
+=======
+>>>>>>> Jona
 // See http://www.boost.org/libs/any for Documentation.
 
 #ifndef BOOST_ANY_INCLUDED
@@ -650,4 +653,7 @@ namespace boost
 // http://www.boost.org/LICENSE_1_0.txt)
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

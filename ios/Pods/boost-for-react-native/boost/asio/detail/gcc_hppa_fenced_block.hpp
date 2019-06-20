@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/gcc_hppa_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,6 +69,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_GCC_HPPA_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/gcc_hppa_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -136,4 +139,7 @@ private:
 #endif // defined(__GNUC__) && (defined(__hppa) || defined(__hppa__))
 
 #endif // BOOST_ASIO_DETAIL_GCC_HPPA_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

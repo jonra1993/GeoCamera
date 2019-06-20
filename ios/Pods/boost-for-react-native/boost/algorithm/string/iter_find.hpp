@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library iter_find.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -193,6 +194,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_ITER_FIND_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library iter_find.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -386,4 +389,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_ITER_FIND_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

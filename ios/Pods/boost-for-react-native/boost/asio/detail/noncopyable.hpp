@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/noncopyable.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -45,6 +46,8 @@ using boost::asio::detail::noncopyable;
 
 #endif // BOOST_ASIO_DETAIL_NONCOPYABLE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/noncopyable.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -90,4 +93,7 @@ using boost::asio::detail::noncopyable;
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_NONCOPYABLE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

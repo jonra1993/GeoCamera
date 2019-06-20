@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // tail.hpp
 //
@@ -338,6 +339,8 @@ struct feature_of<tag::tail<LeftRight> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // tail.hpp
 //
@@ -676,4 +679,7 @@ struct feature_of<tag::tail<LeftRight> >
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

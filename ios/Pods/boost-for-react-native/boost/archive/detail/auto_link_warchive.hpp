@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_DETAIL_AUTO_LINK_WARCHIVE_HPP
 #define BOOST_ARCHIVE_DETAIL_AUTO_LINK_WARCHIVE_HPP
 
@@ -47,6 +48,8 @@
 
 #endif // ARCHIVE_DETAIL_AUTO_LINK_ARCHIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_DETAIL_AUTO_LINK_WARCHIVE_HPP
 #define BOOST_ARCHIVE_DETAIL_AUTO_LINK_WARCHIVE_HPP
 
@@ -94,4 +97,7 @@
 #endif  // auto-linking disabled
 
 #endif // ARCHIVE_DETAIL_AUTO_LINK_ARCHIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

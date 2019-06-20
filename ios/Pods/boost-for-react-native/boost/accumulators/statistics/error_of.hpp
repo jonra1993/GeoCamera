@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // error_of.hpp
 //
@@ -99,6 +100,8 @@ struct as_weighted_feature<tag::error_of<Feature> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // error_of.hpp
 //
@@ -198,4 +201,7 @@ struct as_weighted_feature<tag::error_of<Feature> >
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

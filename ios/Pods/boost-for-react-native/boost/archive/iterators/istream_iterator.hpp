@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_ITERATORS_ISTREAM_ITERATOR_HPP
 #define BOOST_ARCHIVE_ITERATORS_ISTREAM_ITERATOR_HPP
 
@@ -92,6 +93,8 @@ public:
 
 #endif // BOOST_ARCHIVE_ITERATORS_ISTREAM_ITERATOR_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_ITERATORS_ISTREAM_ITERATOR_HPP
 #define BOOST_ARCHIVE_ITERATORS_ISTREAM_ITERATOR_HPP
 
@@ -184,4 +187,7 @@ public:
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_ITERATORS_ISTREAM_ITERATOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

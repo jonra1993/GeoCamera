@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/atomic_count.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,6 +48,8 @@ inline void increment(atomic_count& a, long b) { while (b > 0) ++a, --b; }
 
 #endif // BOOST_ASIO_DETAIL_ATOMIC_COUNT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/atomic_count.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -94,4 +97,7 @@ inline void increment(atomic_count& a, long b) { while (b > 0) ++a, --b; }
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_ATOMIC_COUNT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

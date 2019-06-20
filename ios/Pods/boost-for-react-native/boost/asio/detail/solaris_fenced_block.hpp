@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/solaris_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,6 +64,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_SOLARIS_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/solaris_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,4 +129,7 @@ public:
 #endif // defined(__sun)
 
 #endif // BOOST_ASIO_DETAIL_SOLARIS_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

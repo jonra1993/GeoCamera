@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_DETAIL_BASIC_CONFIG_HPP
 #define BOOST_ARCHIVE_DETAIL_BASIC_CONFIG_HPP
 
@@ -45,6 +46,8 @@
 
 #endif // BOOST_ARCHIVE_DETAIL_BASIC_CONFIG_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_DETAIL_BASIC_CONFIG_HPP
 #define BOOST_ARCHIVE_DETAIL_BASIC_CONFIG_HPP
 
@@ -90,4 +93,7 @@
 #endif
 
 #endif // BOOST_ARCHIVE_DETAIL_BASIC_CONFIG_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

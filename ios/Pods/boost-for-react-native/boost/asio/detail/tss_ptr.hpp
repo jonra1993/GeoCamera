@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/tss_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~
@@ -71,6 +72,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_TSS_PTR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/tss_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~
@@ -142,4 +145,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_TSS_PTR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

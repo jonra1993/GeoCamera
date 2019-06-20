@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // ip/resolver_query_base.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -132,6 +133,8 @@ protected:
 
 #endif // BOOST_ASIO_IP_RESOLVER_QUERY_BASE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // ip/resolver_query_base.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -264,4 +267,7 @@ protected:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IP_RESOLVER_QUERY_BASE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

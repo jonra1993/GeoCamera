@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library erase.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -844,6 +845,8 @@ namespace boost {
 
 #endif  // BOOST_ERASE_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library erase.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -1688,4 +1691,7 @@ namespace boost {
 
 
 #endif  // BOOST_ERASE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

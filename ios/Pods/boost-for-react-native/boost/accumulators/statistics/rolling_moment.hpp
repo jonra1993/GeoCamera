@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // rolling_moment.hpp
 // Copyright 2005 Eric Niebler.
@@ -113,6 +114,8 @@ using extract::rolling_moment;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // rolling_moment.hpp
 // Copyright 2005 Eric Niebler.
@@ -226,4 +229,7 @@ using extract::rolling_moment;
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

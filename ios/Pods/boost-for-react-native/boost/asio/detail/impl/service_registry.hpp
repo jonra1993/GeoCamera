@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/impl/service_registry.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,6 +91,8 @@ boost::asio::io_service::service* service_registry::create(
 
 #endif // BOOST_ASIO_DETAIL_IMPL_SERVICE_REGISTRY_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/impl/service_registry.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -180,4 +183,7 @@ boost::asio::io_service::service* service_registry::create(
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_IMPL_SERVICE_REGISTRY_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

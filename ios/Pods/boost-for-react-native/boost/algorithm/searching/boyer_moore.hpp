@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2010-2012.
 
@@ -272,6 +273,8 @@ Requirements:
 
 #endif  //  BOOST_ALGORITHM_BOYER_MOORE_SEARCH_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2010-2012.
 
@@ -544,4 +547,7 @@ Requirements:
 }}
 
 #endif  //  BOOST_ALGORITHM_BOYER_MOORE_SEARCH_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

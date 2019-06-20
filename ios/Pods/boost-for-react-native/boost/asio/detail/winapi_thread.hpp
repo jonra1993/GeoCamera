@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/winapi_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -124,6 +125,8 @@ inline DWORD WINAPI winapi_thread_function(LPVOID arg)
 
 #endif // BOOST_ASIO_DETAIL_WINAPI_THREAD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/winapi_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -248,4 +251,7 @@ inline DWORD WINAPI winapi_thread_function(LPVOID arg)
 #endif // defined(BOOST_ASIO_WINDOWS)
 
 #endif // BOOST_ASIO_DETAIL_WINAPI_THREAD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

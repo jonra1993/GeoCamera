@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/chrono_time_traits.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -192,6 +193,8 @@ struct chrono_time_traits
 
 #endif // BOOST_ASIO_DETAIL_CHRONO_TIME_TRAITS_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/chrono_time_traits.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -384,4 +387,7 @@ struct chrono_time_traits
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_CHRONO_TIME_TRAITS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

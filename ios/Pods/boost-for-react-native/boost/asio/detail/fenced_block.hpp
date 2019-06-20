@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,6 +79,8 @@ typedef null_fenced_block fenced_block;
 
 #endif // BOOST_ASIO_DETAIL_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -156,4 +159,7 @@ typedef null_fenced_block fenced_block;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

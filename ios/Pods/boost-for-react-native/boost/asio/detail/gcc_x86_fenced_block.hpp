@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/gcc_x86_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,6 +100,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_GCC_X86_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/gcc_x86_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -198,4 +201,7 @@ private:
 #endif // defined(__GNUC__) && (defined(__i386__) || defined(__x86_64__))
 
 #endif // BOOST_ASIO_DETAIL_GCC_X86_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

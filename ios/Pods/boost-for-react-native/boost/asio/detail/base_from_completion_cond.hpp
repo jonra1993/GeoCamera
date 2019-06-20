@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/base_from_completion_cond.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,6 +71,8 @@ protected:
 
 #endif // BOOST_ASIO_DETAIL_BASE_FROM_COMPLETION_COND_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/base_from_completion_cond.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -140,4 +143,7 @@ protected:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_BASE_FROM_COMPLETION_COND_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // io_service.hpp
 // ~~~~~~~~~~~~~~
@@ -772,6 +773,8 @@ boost::asio::detail::service_id<Type> service_base<Type>::id;
 
 #endif // BOOST_ASIO_IO_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // io_service.hpp
 // ~~~~~~~~~~~~~~
@@ -1544,4 +1547,7 @@ boost::asio::detail::service_id<Type> service_base<Type>::id;
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_IO_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

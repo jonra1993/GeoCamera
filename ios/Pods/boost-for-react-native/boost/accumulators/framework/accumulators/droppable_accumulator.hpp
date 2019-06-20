@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // droppable_accumulator.hpp
 //
@@ -328,6 +329,8 @@ namespace boost { namespace accumulators
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // droppable_accumulator.hpp
 //
@@ -656,4 +659,7 @@ namespace boost { namespace accumulators
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

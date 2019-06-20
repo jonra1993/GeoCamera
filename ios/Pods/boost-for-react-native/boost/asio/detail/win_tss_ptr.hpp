@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/win_tss_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -81,6 +82,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WIN_TSS_PTR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/win_tss_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -162,4 +165,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS)
 
 #endif // BOOST_ASIO_DETAIL_WIN_TSS_PTR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

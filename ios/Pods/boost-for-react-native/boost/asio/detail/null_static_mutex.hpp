@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/null_static_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,6 +63,8 @@ struct null_static_mutex
 
 #endif // BOOST_ASIO_DETAIL_NULL_STATIC_MUTEX_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/null_static_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -124,4 +127,7 @@ struct null_static_mutex
 #endif // !defined(BOOST_ASIO_HAS_THREADS)
 
 #endif // BOOST_ASIO_DETAIL_NULL_STATIC_MUTEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

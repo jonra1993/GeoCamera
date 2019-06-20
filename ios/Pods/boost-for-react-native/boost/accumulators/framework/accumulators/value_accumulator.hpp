@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // value_accumulator.hpp
 //
@@ -89,6 +90,8 @@ struct feature_of<tag::value<ValueType, Tag> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // value_accumulator.hpp
 //
@@ -178,4 +181,7 @@ struct feature_of<tag::value<ValueType, Tag> >
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

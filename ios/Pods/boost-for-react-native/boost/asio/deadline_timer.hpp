@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // deadline_timer.hpp
 // ~~~~~~~~~~~~~~~~~~
@@ -40,6 +41,8 @@ typedef basic_deadline_timer<boost::posix_time::ptime> deadline_timer;
 
 #endif // BOOST_ASIO_DEADLINE_TIMER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // deadline_timer.hpp
 // ~~~~~~~~~~~~~~~~~~
@@ -80,4 +83,7 @@ typedef basic_deadline_timer<boost::posix_time::ptime> deadline_timer;
        // || defined(GENERATING_DOCUMENTATION)
 
 #endif // BOOST_ASIO_DEADLINE_TIMER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/dev_poll_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -208,6 +209,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_DEV_POLL_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/dev_poll_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -416,4 +419,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_DEV_POLL)
 
 #endif // BOOST_ASIO_DETAIL_DEV_POLL_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

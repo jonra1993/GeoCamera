@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library split.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -163,6 +164,8 @@ namespace boost {
 #endif  // BOOST_STRING_SPLIT_HPP
 
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library split.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -326,4 +329,7 @@ namespace boost {
 
 #endif  // BOOST_STRING_SPLIT_HPP
 
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

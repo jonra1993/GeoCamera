@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/task_io_service_thread_info.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,6 +43,8 @@ struct task_io_service_thread_info : public thread_info_base
 
 #endif // BOOST_ASIO_DETAIL_TASK_IO_SERVICE_THREAD_INFO_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/task_io_service_thread_info.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -84,4 +87,7 @@ struct task_io_service_thread_info : public thread_info_base
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_TASK_IO_SERVICE_THREAD_INFO_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

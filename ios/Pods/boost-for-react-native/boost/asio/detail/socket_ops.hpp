@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/socket_ops.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -336,6 +337,8 @@ BOOST_ASIO_DECL u_short_type host_to_network_short(u_short_type value);
 
 #endif // BOOST_ASIO_DETAIL_SOCKET_OPS_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/socket_ops.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -672,4 +675,7 @@ BOOST_ASIO_DECL u_short_type host_to_network_short(u_short_type value);
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_DETAIL_SOCKET_OPS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

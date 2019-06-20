@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/reactor_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -63,6 +64,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_REACTOR_OP_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/reactor_op.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -126,4 +129,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_REACTOR_OP_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

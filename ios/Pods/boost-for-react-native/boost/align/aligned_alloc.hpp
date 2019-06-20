@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014-2015 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -44,6 +45,8 @@ http://boost.org/LICENSE_1_0.txt
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014-2015 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -88,4 +91,7 @@ http://boost.org/LICENSE_1_0.txt
 #endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

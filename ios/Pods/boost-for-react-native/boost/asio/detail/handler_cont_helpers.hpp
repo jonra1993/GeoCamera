@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/handler_cont_helpers.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,6 +46,8 @@ inline bool is_continuation(Context& context)
 
 #endif // BOOST_ASIO_DETAIL_HANDLER_CONT_HELPERS_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/handler_cont_helpers.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,4 +93,7 @@ inline bool is_continuation(Context& context)
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_HANDLER_CONT_HELPERS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

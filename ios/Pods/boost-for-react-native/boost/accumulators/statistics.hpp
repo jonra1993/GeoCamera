@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 /// \file statistics.hpp
 /// Includes all of the Statistical Accumulators Library
@@ -61,6 +62,8 @@
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 /// \file statistics.hpp
 /// Includes all of the Statistical Accumulators Library
@@ -122,4 +125,7 @@
 #include <boost/accumulators/statistics/variates/covariate.hpp>
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

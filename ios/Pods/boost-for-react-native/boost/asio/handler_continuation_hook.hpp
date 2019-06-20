@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // handler_continuation_hook.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,6 +57,8 @@ inline bool asio_handler_is_continuation(...)
 
 #endif // BOOST_ASIO_HANDLER_CONTINUATION_HOOK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // handler_continuation_hook.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -112,4 +115,7 @@ inline bool asio_handler_is_continuation(...)
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_HANDLER_CONTINUATION_HOOK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

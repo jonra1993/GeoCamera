@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/signal_init.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -49,6 +50,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_SIGNAL_INIT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/signal_init.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -98,4 +101,7 @@ public:
 #endif // !defined(BOOST_ASIO_WINDOWS) && !defined(__CYGWIN__)
 
 #endif // BOOST_ASIO_DETAIL_SIGNAL_INIT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library string_regex.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2004.
@@ -23,6 +24,8 @@
 
 #endif  // BOOST_STRING_ALGO_REGEX_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library string_regex.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2004.
@@ -46,4 +49,7 @@
 #include <boost/algorithm/string/regex.hpp>
 
 #endif  // BOOST_STRING_ALGO_REGEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

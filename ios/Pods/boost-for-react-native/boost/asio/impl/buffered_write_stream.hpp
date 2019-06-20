@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/buffered_write_stream.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -340,6 +341,8 @@ std::size_t buffered_write_stream<Stream>::copy(
 
 #endif // BOOST_ASIO_IMPL_BUFFERED_WRITE_STREAM_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/buffered_write_stream.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -680,4 +683,7 @@ std::size_t buffered_write_stream<Stream>::copy(
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_BUFFERED_WRITE_STREAM_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

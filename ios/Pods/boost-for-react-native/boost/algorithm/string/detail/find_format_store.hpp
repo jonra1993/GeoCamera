@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library find_format_store.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -89,6 +90,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_FIND_FORMAT_STORE_DETAIL_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library find_format_store.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -178,4 +181,7 @@ namespace boost {
 } // namespace boost
 
 #endif  // BOOST_STRING_FIND_FORMAT_STORE_DETAIL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

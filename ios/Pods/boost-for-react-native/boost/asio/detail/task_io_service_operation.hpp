@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/task_io_service_operation.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,6 +79,8 @@ protected:
 
 #endif // BOOST_ASIO_DETAIL_TASK_IO_SERVICE_OPERATION_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/task_io_service_operation.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -156,4 +159,7 @@ protected:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_TASK_IO_SERVICE_OPERATION_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

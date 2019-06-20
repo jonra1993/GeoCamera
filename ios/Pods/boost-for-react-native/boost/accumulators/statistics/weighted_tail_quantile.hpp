@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_tail_quantile.hpp
 //
@@ -146,6 +147,8 @@ using extract::weighted_tail_quantile;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_tail_quantile.hpp
 //
@@ -292,4 +295,7 @@ using extract::weighted_tail_quantile;
 #endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

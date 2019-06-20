@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/null_event.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -90,6 +91,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_NULL_EVENT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/null_event.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -180,4 +183,7 @@ public:
 #endif // !defined(BOOST_ASIO_HAS_THREADS)
 
 #endif // BOOST_ASIO_DETAIL_NULL_EVENT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

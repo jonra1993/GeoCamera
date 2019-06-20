@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/kqueue_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -222,6 +223,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_KQUEUE_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/kqueue_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -444,4 +447,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_KQUEUE)
 
 #endif // BOOST_ASIO_DETAIL_KQUEUE_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

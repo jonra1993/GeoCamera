@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -24,6 +25,8 @@ using std::alignment_of;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -48,4 +51,7 @@ using std::alignment_of;
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

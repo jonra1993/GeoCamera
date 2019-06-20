@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/write_at.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -827,6 +828,8 @@ async_write_at(AsyncRandomAccessWriteDevice& d,
 
 #endif // BOOST_ASIO_IMPL_WRITE_AT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/write_at.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -1654,4 +1657,7 @@ async_write_at(AsyncRandomAccessWriteDevice& d,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_WRITE_AT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library join.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -145,6 +146,8 @@ namespace boost {
 #endif  // BOOST_STRING_JOIN_HPP
 
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library join.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -290,4 +293,7 @@ namespace boost {
 
 #endif  // BOOST_STRING_JOIN_HPP
 
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

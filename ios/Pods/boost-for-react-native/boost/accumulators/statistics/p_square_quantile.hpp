@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // p_square_quantile.hpp
 //
@@ -257,6 +258,8 @@ struct feature_of<tag::weighted_p_square_quantile>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // p_square_quantile.hpp
 //
@@ -514,4 +517,7 @@ struct feature_of<tag::weighted_p_square_quantile>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

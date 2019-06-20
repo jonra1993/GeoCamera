@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // ip/detail/endpoint.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -141,6 +142,8 @@ private:
 
 #endif // BOOST_ASIO_IP_DETAIL_ENDPOINT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // ip/detail/endpoint.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -282,4 +285,7 @@ private:
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_IP_DETAIL_ENDPOINT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

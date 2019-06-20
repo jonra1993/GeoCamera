@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BINARY_IARCHIVE_IMPL_HPP
 #define BOOST_ARCHIVE_BINARY_IARCHIVE_IMPL_HPP
 
@@ -105,6 +106,8 @@ protected:
 
 #endif // BOOST_ARCHIVE_BINARY_IARCHIVE_IMPL_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BINARY_IARCHIVE_IMPL_HPP
 #define BOOST_ARCHIVE_BINARY_IARCHIVE_IMPL_HPP
 
@@ -210,4 +213,7 @@ protected:
 #endif
 
 #endif // BOOST_ARCHIVE_BINARY_IARCHIVE_IMPL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

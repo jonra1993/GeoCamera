@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/use_future.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -178,6 +179,8 @@ struct handler_type<use_future_t<Allocator>,
 
 #endif // BOOST_ASIO_IMPL_USE_FUTURE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/use_future.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -356,4 +359,7 @@ struct handler_type<use_future_t<Allocator>,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_USE_FUTURE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/config.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -996,6 +997,8 @@
 
 #endif // BOOST_ASIO_DETAIL_CONFIG_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/config.hpp
 // ~~~~~~~~~~~~~~~~~
@@ -1992,4 +1995,7 @@
 #endif // !defined(BOOST_ASIO_DISABLE_SSIZE_T)
 
 #endif // BOOST_ASIO_DETAIL_CONFIG_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

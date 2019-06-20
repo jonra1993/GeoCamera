@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library sequence.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -200,6 +201,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_DETAIL_SEQUENCE_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library sequence.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -400,4 +403,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_DETAIL_SEQUENCE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

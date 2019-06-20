@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_signal_set.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -386,6 +387,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_SIGNAL_SET_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_signal_set.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -772,4 +775,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BASIC_SIGNAL_SET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

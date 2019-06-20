@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/type_traits.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -60,6 +61,8 @@ using boost::remove_reference;
 
 #endif // BOOST_ASIO_DETAIL_TYPE_TRAITS_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/type_traits.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -120,4 +123,7 @@ using boost::remove_reference;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_TYPE_TRAITS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

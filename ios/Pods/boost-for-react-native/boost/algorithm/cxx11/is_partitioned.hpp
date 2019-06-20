@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -56,6 +57,8 @@ bool is_partitioned ( const Range &r, UnaryPredicate p )
 
 #endif  // BOOST_ALGORITHM_IS_PARTITIONED_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -112,4 +115,7 @@ bool is_partitioned ( const Range &r, UnaryPredicate p )
 }}
 
 #endif  // BOOST_ALGORITHM_IS_PARTITIONED_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

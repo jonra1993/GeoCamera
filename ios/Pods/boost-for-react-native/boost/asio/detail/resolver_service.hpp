@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/resolver_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -131,6 +132,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_RESOLVER_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/resolver_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -262,4 +265,7 @@ public:
 #endif // !defined(BOOST_ASIO_WINDOWS_RUNTIME)
 
 #endif // BOOST_ASIO_DETAIL_RESOLVER_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

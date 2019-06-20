@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weights.hpp
 //
@@ -23,6 +24,8 @@ BOOST_ACCUMULATORS_IGNORE_GLOBAL(weights)
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weights.hpp
 //
@@ -46,4 +49,7 @@ BOOST_ACCUMULATORS_IGNORE_GLOBAL(weights)
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

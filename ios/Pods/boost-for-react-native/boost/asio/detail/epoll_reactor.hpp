@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/epoll_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -244,6 +245,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_EPOLL_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/epoll_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -488,4 +491,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_EPOLL)
 
 #endif // BOOST_ASIO_DETAIL_EPOLL_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

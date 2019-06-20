@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/weak_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -40,6 +41,8 @@ using boost::weak_ptr;
 
 #endif // BOOST_ASIO_DETAIL_WEAK_PTR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/weak_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -80,4 +83,7 @@ using boost::weak_ptr;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_WEAK_PTR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

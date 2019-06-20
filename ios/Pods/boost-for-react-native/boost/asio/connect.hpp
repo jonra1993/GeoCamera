@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // connect.hpp
 // ~~~~~~~~~~~
@@ -825,6 +826,8 @@ async_connect(basic_socket<Protocol, SocketService>& s,
 
 #endif
 =======
+=======
+>>>>>>> Jona
 //
 // connect.hpp
 // ~~~~~~~~~~~
@@ -1650,4 +1653,7 @@ async_connect(basic_socket<Protocol, SocketService>& s,
 #include <boost/asio/impl/connect.hpp>
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

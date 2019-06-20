@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BINARY_WIARCHIVE_HPP
 #define BOOST_ARCHIVE_BINARY_WIARCHIVE_HPP
 
@@ -56,6 +57,8 @@ BOOST_SERIALIZATION_REGISTER_ARCHIVE(boost::archive::binary_wiarchive)
 #endif // BOOST_NO_STD_WSTREAMBUF
 #endif // BOOST_ARCHIVE_BINARY_WIARCHIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BINARY_WIARCHIVE_HPP
 #define BOOST_ARCHIVE_BINARY_WIARCHIVE_HPP
 
@@ -112,4 +115,7 @@ BOOST_SERIALIZATION_REGISTER_ARCHIVE(boost::archive::binary_wiarchive)
 
 #endif // BOOST_NO_STD_WSTREAMBUF
 #endif // BOOST_ARCHIVE_BINARY_WIARCHIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

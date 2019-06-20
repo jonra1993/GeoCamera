@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Copyright (c) 2010 Nuovation System Designs, LLC
 //    Grant Erickson <gerickson@nuovations.com>
 //
@@ -280,6 +281,8 @@ namespace boost { namespace algorithm {
 
 #endif  // BOOST_ALGORITHM_ORDERED_HPP
 =======
+=======
+>>>>>>> Jona
 //  Copyright (c) 2010 Nuovation System Designs, LLC
 //    Grant Erickson <gerickson@nuovations.com>
 //
@@ -560,4 +563,7 @@ namespace boost { namespace algorithm {
 }} // namespace boost
 
 #endif  // BOOST_ALGORITHM_ORDERED_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

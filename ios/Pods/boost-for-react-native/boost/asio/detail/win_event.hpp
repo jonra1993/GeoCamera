@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/win_event.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -132,6 +133,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WIN_EVENT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/win_event.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -264,4 +267,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS)
 
 #endif // BOOST_ASIO_DETAIL_WIN_EVENT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

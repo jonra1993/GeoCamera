@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library find_iterator.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2004.
@@ -388,6 +389,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_FIND_ITERATOR_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library find_iterator.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2004.
@@ -776,4 +779,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_FIND_ITERATOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

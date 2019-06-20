@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -70,6 +71,8 @@ partition_copy ( const Range &r, OutputIterator1 out_true, OutputIterator2 out_f
 
 #endif  // BOOST_ALGORITHM_PARTITION_COPY_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -140,4 +143,7 @@ partition_copy ( const Range &r, OutputIterator1 out_true, OutputIterator2 out_f
 }} // namespace boost and algorithm
 
 #endif  // BOOST_ALGORITHM_PARTITION_COPY_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

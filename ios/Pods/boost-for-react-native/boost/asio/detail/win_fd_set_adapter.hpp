@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/win_fd_set_adapter.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -151,6 +152,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WIN_FD_SET_ADAPTER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/win_fd_set_adapter.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -302,4 +305,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS) || defined(__CYGWIN__)
 
 #endif // BOOST_ASIO_DETAIL_WIN_FD_SET_ADAPTER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

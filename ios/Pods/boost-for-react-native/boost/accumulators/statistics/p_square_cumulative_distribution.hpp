@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // p_square_cumulative_distribution.hpp
 //
@@ -19,6 +20,8 @@
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // p_square_cumulative_distribution.hpp
 //
@@ -38,4 +41,7 @@
 #include <boost/accumulators/statistics/p_square_cumul_dist.hpp>
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

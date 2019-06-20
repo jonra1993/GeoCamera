@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/impl/select_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,6 +90,8 @@ std::size_t select_reactor::cancel_timer(timer_queue<Time_Traits>& queue,
 
 #endif // BOOST_ASIO_DETAIL_IMPL_SELECT_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/impl/select_reactor.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -178,4 +181,7 @@ std::size_t select_reactor::cancel_timer(timer_queue<Time_Traits>& queue,
        //       && !defined(BOOST_ASIO_WINDOWS_RUNTIME))
 
 #endif // BOOST_ASIO_DETAIL_IMPL_SELECT_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

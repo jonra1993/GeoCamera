@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library string_algo.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2004.
@@ -31,6 +32,8 @@
 
 #endif  // BOOST_STRING_ALGO_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library string_algo.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2004.
@@ -62,4 +65,7 @@
 
 
 #endif  // BOOST_STRING_ALGO_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

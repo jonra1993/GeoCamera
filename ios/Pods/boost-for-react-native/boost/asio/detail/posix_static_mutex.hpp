@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/posix_static_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,6 +67,8 @@ struct posix_static_mutex
 
 #endif // BOOST_ASIO_DETAIL_POSIX_STATIC_MUTEX_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/posix_static_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -132,4 +135,7 @@ struct posix_static_mutex
 #endif // defined(BOOST_ASIO_HAS_PTHREADS)
 
 #endif // BOOST_ASIO_DETAIL_POSIX_STATIC_MUTEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

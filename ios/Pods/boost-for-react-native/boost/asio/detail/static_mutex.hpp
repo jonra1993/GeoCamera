@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/static_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,6 +55,8 @@ typedef std_static_mutex static_mutex;
 
 #endif // BOOST_ASIO_DETAIL_STATIC_MUTEX_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/static_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,4 +111,7 @@ typedef std_static_mutex static_mutex;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_STATIC_MUTEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

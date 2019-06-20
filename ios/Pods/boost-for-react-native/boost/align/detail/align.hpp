@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014-2016 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -38,6 +39,8 @@ inline void* align(std::size_t alignment, std::size_t size,
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014-2016 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -76,4 +79,7 @@ inline void* align(std::size_t alignment, std::size_t size,
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

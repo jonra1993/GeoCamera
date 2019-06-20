@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_XML_OARCHIVE_HPP
 #define BOOST_ARCHIVE_XML_OARCHIVE_HPP
 
@@ -137,6 +138,8 @@ BOOST_SERIALIZATION_REGISTER_ARCHIVE(boost::archive::xml_oarchive)
 
 #endif // BOOST_ARCHIVE_XML_OARCHIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_XML_OARCHIVE_HPP
 #define BOOST_ARCHIVE_XML_OARCHIVE_HPP
 
@@ -274,4 +277,7 @@ BOOST_SERIALIZATION_REGISTER_ARCHIVE(boost::archive::xml_oarchive)
 #endif
 
 #endif // BOOST_ARCHIVE_XML_OARCHIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

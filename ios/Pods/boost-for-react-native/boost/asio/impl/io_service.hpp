@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/io_service.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -156,6 +157,8 @@ inline boost::asio::io_service& io_service::service::get_io_service()
 
 #endif // BOOST_ASIO_IMPL_IO_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/io_service.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -312,4 +315,7 @@ inline boost::asio::io_service& io_service::service::get_io_service()
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_IO_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

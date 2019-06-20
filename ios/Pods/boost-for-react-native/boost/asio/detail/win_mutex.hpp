@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/win_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -80,6 +81,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WIN_MUTEX_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/win_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -160,4 +163,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS)
 
 #endif // BOOST_ASIO_DETAIL_WIN_MUTEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

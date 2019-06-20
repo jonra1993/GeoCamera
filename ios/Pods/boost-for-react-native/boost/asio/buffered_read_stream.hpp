@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // buffered_read_stream.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -246,6 +247,8 @@ private:
 
 #endif // BOOST_ASIO_BUFFERED_READ_STREAM_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // buffered_read_stream.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -492,4 +495,7 @@ private:
 #include <boost/asio/impl/buffered_read_stream.hpp>
 
 #endif // BOOST_ASIO_BUFFERED_READ_STREAM_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

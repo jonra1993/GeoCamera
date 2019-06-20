@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BINARY_OARCHIVE_HPP
 #define BOOST_ARCHIVE_BINARY_OARCHIVE_HPP
 
@@ -64,6 +65,8 @@ BOOST_SERIALIZATION_USE_ARRAY_OPTIMIZATION(boost::archive::binary_oarchive)
 
 #endif // BOOST_ARCHIVE_BINARY_OARCHIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BINARY_OARCHIVE_HPP
 #define BOOST_ARCHIVE_BINARY_OARCHIVE_HPP
 
@@ -128,4 +131,7 @@ BOOST_SERIALIZATION_USE_ARRAY_OPTIMIZATION(boost::archive::binary_oarchive)
 #endif
 
 #endif // BOOST_ARCHIVE_BINARY_OARCHIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

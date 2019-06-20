@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // accumulator.hpp
 //
@@ -22,6 +23,8 @@ BOOST_ACCUMULATORS_IGNORE_GLOBAL(accumulator)
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // accumulator.hpp
 //
@@ -44,4 +47,7 @@ BOOST_ACCUMULATORS_IGNORE_GLOBAL(accumulator)
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

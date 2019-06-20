@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // accumulator_concept.hpp
 //
@@ -29,6 +30,8 @@ struct accumulator_concept
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // accumulator_concept.hpp
 //
@@ -58,4 +61,7 @@ struct accumulator_concept
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

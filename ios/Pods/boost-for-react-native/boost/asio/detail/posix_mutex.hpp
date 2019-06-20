@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/posix_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -78,6 +79,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_POSIX_MUTEX_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/posix_mutex.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -156,4 +159,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_PTHREADS)
 
 #endif // BOOST_ASIO_DETAIL_POSIX_MUTEX_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

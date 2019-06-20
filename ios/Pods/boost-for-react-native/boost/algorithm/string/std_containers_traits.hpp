@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library std_containers_traits.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -26,6 +27,8 @@
 
 #endif  // BOOST_STRING_STD_CONTAINERS_TRAITS_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library std_containers_traits.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -52,4 +55,7 @@
 #endif
 
 #endif  // BOOST_STRING_STD_CONTAINERS_TRAITS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

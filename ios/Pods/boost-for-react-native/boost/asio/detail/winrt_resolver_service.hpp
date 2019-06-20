@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/winrt_resolver_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -185,6 +186,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_WINRT_RESOLVER_SERVICE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/winrt_resolver_service.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -370,4 +373,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS_RUNTIME)
 
 #endif // BOOST_ASIO_DETAIL_WINRT_RESOLVER_SERVICE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

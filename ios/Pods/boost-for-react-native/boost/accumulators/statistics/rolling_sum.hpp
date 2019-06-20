@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // rolling_sum.hpp
 //
@@ -91,6 +92,8 @@ using extract::rolling_sum;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // rolling_sum.hpp
 //
@@ -182,4 +185,7 @@ using extract::rolling_sum;
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

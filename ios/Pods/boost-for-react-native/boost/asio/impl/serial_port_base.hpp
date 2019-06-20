@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/serial_port_base.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -61,6 +62,8 @@ inline unsigned int serial_port_base::character_size::value() const
 
 #endif // BOOST_ASIO_IMPL_SERIAL_PORT_BASE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/serial_port_base.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,4 +125,7 @@ inline unsigned int serial_port_base::character_size::value() const
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_SERIAL_PORT_BASE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

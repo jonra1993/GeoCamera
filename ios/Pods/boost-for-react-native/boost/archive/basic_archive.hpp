@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_BASIC_ARCHIVE_HPP
 #define BOOST_ARCHIVE_BASIC_ARCHIVE_HPP
 
@@ -304,6 +305,8 @@ BOOST_IS_BITWISE_SERIALIZABLE(boost::archive::tracking_type)
 
 #endif //BOOST_ARCHIVE_BASIC_ARCHIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_BASIC_ARCHIVE_HPP
 #define BOOST_ARCHIVE_BASIC_ARCHIVE_HPP
 
@@ -608,4 +611,7 @@ BOOST_IS_BITWISE_SERIALIZABLE(boost::archive::object_reference_type)
 BOOST_IS_BITWISE_SERIALIZABLE(boost::archive::tracking_type)
 
 #endif //BOOST_ARCHIVE_BASIC_ARCHIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_POLYMORPHIC_IARCHIVE_HPP
 #define BOOST_ARCHIVE_POLYMORPHIC_IARCHIVE_HPP
 
@@ -168,6 +169,8 @@ BOOST_SERIALIZATION_REGISTER_ARCHIVE(boost::archive::polymorphic_iarchive)
 
 #endif // BOOST_ARCHIVE_POLYMORPHIC_IARCHIVE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_POLYMORPHIC_IARCHIVE_HPP
 #define BOOST_ARCHIVE_POLYMORPHIC_IARCHIVE_HPP
 
@@ -336,4 +339,7 @@ public:
 BOOST_SERIALIZATION_REGISTER_ARCHIVE(boost::archive::polymorphic_iarchive)
 
 #endif // BOOST_ARCHIVE_POLYMORPHIC_IARCHIVE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

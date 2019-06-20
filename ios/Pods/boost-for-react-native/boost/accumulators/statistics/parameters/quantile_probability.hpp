@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // quantile_probability.hpp
 //
@@ -23,6 +24,8 @@ BOOST_ACCUMULATORS_IGNORE_GLOBAL(quantile_probability)
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // quantile_probability.hpp
 //
@@ -46,4 +49,7 @@ BOOST_ACCUMULATORS_IGNORE_GLOBAL(quantile_probability)
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -27,6 +28,8 @@ struct min_size
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -54,4 +57,7 @@ struct min_size
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // rolling_mean.hpp
 // Copyright (C) 2008 Eric Niebler.
@@ -178,6 +179,8 @@ namespace boost { namespace accumulators
 }} // namespace boost::accumulators
 
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // rolling_mean.hpp
 // Copyright (C) 2008 Eric Niebler.
@@ -356,5 +359,8 @@ namespace boost { namespace accumulators
    };
 }} // namespace boost::accumulators
 
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona
 #endif

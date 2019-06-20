@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/socket_option.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -318,6 +319,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_SOCKET_OPTION_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/socket_option.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -636,4 +639,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_SOCKET_OPTION_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

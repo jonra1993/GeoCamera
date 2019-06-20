@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // depends_on.hpp
 //
@@ -448,6 +449,8 @@ namespace boost { namespace accumulators
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // depends_on.hpp
 //
@@ -896,4 +899,7 @@ namespace boost { namespace accumulators
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library classification.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -312,6 +313,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_PREDICATE_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library classification.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -624,4 +627,7 @@ namespace boost {
 } // namespace boost
 
 #endif  // BOOST_STRING_PREDICATE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -185,6 +186,8 @@ is_permutation ( const Range &r, ForwardIterator first2, BinaryPredicate pred )
 
 #endif  // BOOST_ALGORITHM_IS_PERMUTATION11_HPP
 =======
+=======
+>>>>>>> Jona
 /*
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -370,4 +373,7 @@ is_permutation ( const Range &r, ForwardIterator first2, BinaryPredicate pred )
 }}
 
 #endif  // BOOST_ALGORITHM_IS_PERMUTATION11_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

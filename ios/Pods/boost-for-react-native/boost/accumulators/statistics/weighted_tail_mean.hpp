@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_tail_mean.hpp
 //
@@ -169,6 +170,8 @@ using extract::non_coherent_weighted_tail_mean;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_tail_mean.hpp
 //
@@ -338,4 +341,7 @@ using extract::non_coherent_weighted_tail_mean;
 #endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

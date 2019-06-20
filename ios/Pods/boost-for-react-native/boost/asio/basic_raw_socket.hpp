@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_raw_socket.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -942,6 +943,8 @@ public:
 
 #endif // BOOST_ASIO_BASIC_RAW_SOCKET_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_raw_socket.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -1884,4 +1887,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BASIC_RAW_SOCKET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

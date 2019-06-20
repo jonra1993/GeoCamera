@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2015 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -24,6 +25,8 @@ BOOST_CONSTEXPR std::size_t align_up(std::size_t value,
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2015 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -48,4 +51,7 @@ BOOST_CONSTEXPR std::size_t align_up(std::size_t value,
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

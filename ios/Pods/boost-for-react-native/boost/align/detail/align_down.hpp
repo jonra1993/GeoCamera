@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2015 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -28,6 +29,8 @@ inline void* align_down(void* ptr, std::size_t alignment) BOOST_NOEXCEPT
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2015 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -56,4 +59,7 @@ inline void* align_down(void* ptr, std::size_t alignment) BOOST_NOEXCEPT
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

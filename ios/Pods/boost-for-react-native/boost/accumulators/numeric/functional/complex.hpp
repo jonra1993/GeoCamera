@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 /// \file complex.hpp
 ///
@@ -82,6 +83,8 @@ namespace boost { namespace numeric
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 /// \file complex.hpp
 ///
@@ -164,4 +167,7 @@ namespace boost { namespace numeric
 }} // namespace boost::numeric
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

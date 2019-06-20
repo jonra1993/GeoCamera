@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -84,6 +85,8 @@ bool any_of_equal ( const Range &r, const V &val )
 
 #endif // BOOST_ALGORITHM_ANY_OF_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -168,4 +171,7 @@ bool any_of_equal ( const Range &r, const V &val )
 }} // namespace boost and algorithm
 
 #endif // BOOST_ALGORITHM_ANY_OF_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

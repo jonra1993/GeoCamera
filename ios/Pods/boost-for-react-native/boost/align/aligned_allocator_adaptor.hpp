@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 (c) 2014-2016 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -178,6 +179,8 @@ inline bool operator!=(const aligned_allocator_adaptor<A1,
 
 #endif
 =======
+=======
+>>>>>>> Jona
 /*
 (c) 2014-2016 Glen Joseph Fernandes
 <glenjofe -at- gmail.com>
@@ -356,4 +359,7 @@ inline bool operator!=(const aligned_allocator_adaptor<A1,
 } /* .boost */
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

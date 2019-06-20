@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // buffer.hpp
 // ~~~~~~~~~~
@@ -2241,6 +2242,8 @@ std::size_t buffer_copy(const MutableBufferSequence& target,
 
 #endif // BOOST_ASIO_BUFFER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // buffer.hpp
 // ~~~~~~~~~~
@@ -4482,4 +4485,7 @@ std::size_t buffer_copy(const MutableBufferSequence& target,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BUFFER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

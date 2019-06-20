@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/handler_alloc_helpers.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,6 +83,8 @@ inline void deallocate(void* p, std::size_t s, Handler& h)
 
 #endif // BOOST_ASIO_DETAIL_HANDLER_ALLOC_HELPERS_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/handler_alloc_helpers.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -164,4 +167,7 @@ inline void deallocate(void* p, std::size_t s, Handler& h)
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_HANDLER_ALLOC_HELPERS_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

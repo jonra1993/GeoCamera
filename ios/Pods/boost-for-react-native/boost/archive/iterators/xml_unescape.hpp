@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_ITERATORS_XML_UNESCAPE_HPP
 #define BOOST_ARCHIVE_ITERATORS_XML_UNESCAPE_HPP
 
@@ -125,6 +126,8 @@ xml_unescape<Base>::drain(){
 
 #endif // BOOST_ARCHIVE_ITERATORS_XML_UNESCAPE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_ITERATORS_XML_UNESCAPE_HPP
 #define BOOST_ARCHIVE_ITERATORS_XML_UNESCAPE_HPP
 
@@ -250,4 +253,7 @@ xml_unescape<Base>::drain(){
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_ITERATORS_XML_UNESCAPE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

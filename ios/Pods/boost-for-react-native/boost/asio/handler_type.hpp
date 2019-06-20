@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // handler_type.hpp
 // ~~~~~~~~~~~~~~~~
@@ -114,6 +115,8 @@ struct handler_type<ReturnType(Arg1, Arg2, Arg3, Arg4, Arg5), Signature>
 
 #endif // BOOST_ASIO_HANDLER_TYPE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // handler_type.hpp
 // ~~~~~~~~~~~~~~~~
@@ -228,4 +231,7 @@ struct handler_type<ReturnType(Arg1, Arg2, Arg3, Arg4, Arg5), Signature>
   typename handler_type<h, sig>::type
 
 #endif // BOOST_ASIO_HANDLER_TYPE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

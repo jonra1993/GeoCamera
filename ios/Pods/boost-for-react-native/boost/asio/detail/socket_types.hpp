@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/socket_types.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -410,6 +411,8 @@ const int always_fail_option = 2;
 
 #endif // BOOST_ASIO_DETAIL_SOCKET_TYPES_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/socket_types.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -820,4 +823,7 @@ const int always_fail_option = 2;
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_SOCKET_TYPES_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/timer_scheduler.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -35,6 +36,8 @@
 
 #endif // BOOST_ASIO_DETAIL_TIMER_SCHEDULER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/timer_scheduler.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,4 +73,7 @@
 #endif
 
 #endif // BOOST_ASIO_DETAIL_TIMER_SCHEDULER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

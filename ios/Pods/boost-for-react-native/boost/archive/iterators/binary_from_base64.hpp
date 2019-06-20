@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_ITERATORS_BINARY_FROM_BASE64_HPP
 #define BOOST_ARCHIVE_ITERATORS_BINARY_FROM_BASE64_HPP
 
@@ -118,6 +119,8 @@ public:
 
 #endif // BOOST_ARCHIVE_ITERATORS_BINARY_FROM_BASE64_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_ITERATORS_BINARY_FROM_BASE64_HPP
 #define BOOST_ARCHIVE_ITERATORS_BINARY_FROM_BASE64_HPP
 
@@ -236,4 +239,7 @@ public:
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_ITERATORS_BINARY_FROM_BASE64_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

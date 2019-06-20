@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/shared_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -40,6 +41,8 @@ using boost::shared_ptr;
 
 #endif // BOOST_ASIO_DETAIL_SHARED_PTR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/shared_ptr.hpp
 // ~~~~~~~~~~~~~~~~~~~~~
@@ -80,4 +83,7 @@ using boost::shared_ptr;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_SHARED_PTR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

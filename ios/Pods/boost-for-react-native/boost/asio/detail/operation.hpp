@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/operation.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -40,6 +41,8 @@ typedef task_io_service_operation operation;
 
 #endif // BOOST_ASIO_DETAIL_OPERATION_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/operation.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -80,4 +83,7 @@ typedef task_io_service_operation operation;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_OPERATION_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

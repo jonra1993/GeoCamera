@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -35,6 +36,8 @@ OutputIterator copy_n ( InputIterator first, Size n, OutputIterator result )
 
 #endif  // BOOST_ALGORITHM_COPY_IF_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2011-2012.
 
@@ -70,4 +73,7 @@ OutputIterator copy_n ( InputIterator first, Size n, OutputIterator result )
 }} // namespace boost and algorithm
 
 #endif  // BOOST_ALGORITHM_COPY_IF_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

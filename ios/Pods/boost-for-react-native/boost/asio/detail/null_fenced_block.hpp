@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/null_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,6 +48,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_NULL_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/null_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -94,4 +97,7 @@ public:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_NULL_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

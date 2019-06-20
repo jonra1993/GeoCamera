@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // moment.hpp
 //
@@ -125,6 +126,8 @@ struct feature_of<tag::weighted_moment<N> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // moment.hpp
 //
@@ -250,4 +253,7 @@ struct feature_of<tag::weighted_moment<N> >
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

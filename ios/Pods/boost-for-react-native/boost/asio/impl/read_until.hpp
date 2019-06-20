@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/read_until.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -1149,6 +1150,8 @@ async_read_until(AsyncReadStream& s,
 
 #endif // BOOST_ASIO_IMPL_READ_UNTIL_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/read_until.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -2298,4 +2301,7 @@ async_read_until(AsyncReadStream& s,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_READ_UNTIL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

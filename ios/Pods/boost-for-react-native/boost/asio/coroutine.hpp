@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // coroutine.hpp
 // ~~~~~~~~~~~~~
@@ -330,6 +331,8 @@ private:
 
 #endif // BOOST_ASIO_COROUTINE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // coroutine.hpp
 // ~~~~~~~~~~~~~
@@ -660,4 +663,7 @@ private:
 #endif // defined(_MSC_VER)
 
 #endif // BOOST_ASIO_COROUTINE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

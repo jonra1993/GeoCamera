@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/cstdint.hpp
 // ~~~~~~~~~~~~~~~~~~
@@ -48,6 +49,8 @@ using boost::uint64_t;
 
 #endif // BOOST_ASIO_DETAIL_CSTDINT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/cstdint.hpp
 // ~~~~~~~~~~~~~~~~~~
@@ -96,4 +99,7 @@ using boost::uint64_t;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_CSTDINT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library concept.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -83,6 +84,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_CONCEPT_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library concept.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -166,4 +169,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_CONCEPT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

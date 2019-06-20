@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // rolling_variance.hpp
 // Copyright (C) 2005 Eric Niebler
@@ -247,6 +248,8 @@ struct feature_of<tag::immediate_rolling_variance>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // rolling_variance.hpp
 // Copyright (C) 2005 Eric Niebler
@@ -494,4 +497,7 @@ struct feature_of<tag::immediate_rolling_variance>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

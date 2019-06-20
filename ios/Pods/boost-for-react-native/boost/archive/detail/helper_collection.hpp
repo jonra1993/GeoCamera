@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_DETAIL_HELPER_COLLECTION_HPP
 #define BOOST_ARCHIVE_DETAIL_HELPER_COLLECTION_HPP
 
@@ -99,6 +100,8 @@ public:
 
 #endif // BOOST_ARCHIVE_DETAIL_HELPER_COLLECTION_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_DETAIL_HELPER_COLLECTION_HPP
 #define BOOST_ARCHIVE_DETAIL_HELPER_COLLECTION_HPP
 
@@ -198,4 +201,7 @@ public:
 } // namespace boost
 
 #endif // BOOST_ARCHIVE_DETAIL_HELPER_COLLECTION_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

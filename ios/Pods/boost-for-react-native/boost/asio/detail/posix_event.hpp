@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/posix_event.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -128,6 +129,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_POSIX_EVENT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/posix_event.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -256,4 +259,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_PTHREADS)
 
 #endif // BOOST_ASIO_DETAIL_POSIX_EVENT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

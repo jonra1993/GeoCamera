@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_ADD_FACET_HPP
 #define BOOST_ARCHIVE_ADD_FACET_HPP
 
@@ -55,6 +56,8 @@ add_facet(const std::locale &l, Facet * f){
 
 #endif // BOOST_ARCHIVE_ADD_FACET_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_ADD_FACET_HPP
 #define BOOST_ARCHIVE_ADD_FACET_HPP
 
@@ -110,4 +113,7 @@ add_facet(const std::locale &l, Facet * f){
 #undef BOOST_ARCHIVE_OLD_DINKUMWARE_BENEATH_STLPORT
 
 #endif // BOOST_ARCHIVE_ADD_FACET_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

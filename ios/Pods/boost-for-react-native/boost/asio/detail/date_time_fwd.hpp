@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/date_time_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,6 +35,8 @@ class ptime;
 
 #endif // BOOST_ASIO_DETAIL_DATE_TIME_FWD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/date_time_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,4 +71,7 @@ class ptime;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_DATE_TIME_FWD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

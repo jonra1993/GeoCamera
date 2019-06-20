@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_CODECVT_NULL_HPP
 #define BOOST_ARCHIVE_CODECVT_NULL_HPP
 
@@ -106,6 +107,8 @@ public:
 
 #endif //BOOST_ARCHIVE_CODECVT_NULL_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_CODECVT_NULL_HPP
 #define BOOST_ARCHIVE_CODECVT_NULL_HPP
 
@@ -212,4 +215,7 @@ public:
 #include <boost/archive/detail/abi_suffix.hpp> // pop pragmas
 
 #endif //BOOST_ARCHIVE_CODECVT_NULL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

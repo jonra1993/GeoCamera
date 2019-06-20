@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // buffers_iterator.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -483,6 +484,8 @@ inline buffers_iterator<BufferSequence> buffers_end(
 
 #endif // BOOST_ASIO_BUFFERS_ITERATOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // buffers_iterator.hpp
 // ~~~~~~~~~~~~~~~~~~~~
@@ -966,4 +969,7 @@ inline buffers_iterator<BufferSequence> buffers_end(
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_BUFFERS_ITERATOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

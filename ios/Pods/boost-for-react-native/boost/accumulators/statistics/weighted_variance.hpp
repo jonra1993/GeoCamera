@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_variance.hpp
 //
@@ -186,6 +187,8 @@ struct as_feature<tag::weighted_variance(immediate)>
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_variance.hpp
 //
@@ -372,4 +375,7 @@ struct as_feature<tag::weighted_variance(immediate)>
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

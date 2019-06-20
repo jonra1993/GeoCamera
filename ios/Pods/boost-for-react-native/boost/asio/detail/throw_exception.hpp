@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/throw_exception.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,6 +54,8 @@ void throw_exception(const Exception& e)
 
 #endif // BOOST_ASIO_DETAIL_THROW_EXCEPTION_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/throw_exception.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -106,4 +109,7 @@ void throw_exception(const Exception& e)
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_THROW_EXCEPTION_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

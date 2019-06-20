@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_peaks_over_threshold.hpp
 //
@@ -289,6 +290,8 @@ struct as_feature<tag::weighted_peaks_over_threshold<LeftRight>(with_threshold_p
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_peaks_over_threshold.hpp
 //
@@ -578,4 +581,7 @@ struct as_feature<tag::weighted_peaks_over_threshold<LeftRight>(with_threshold_p
 #endif
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/local_free_on_block_exit.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -61,6 +62,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_LOCAL_FREE_ON_BLOCK_EXIT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/local_free_on_block_exit.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,4 +125,7 @@ private:
 #endif // defined(BOOST_ASIO_WINDOWS) || defined(__CYGWIN__)
 
 #endif // BOOST_ASIO_DETAIL_LOCAL_FREE_ON_BLOCK_EXIT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

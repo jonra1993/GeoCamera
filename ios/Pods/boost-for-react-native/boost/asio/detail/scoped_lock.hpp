@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/scoped_lock.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -103,6 +104,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_SCOPED_LOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/scoped_lock.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~
@@ -206,4 +209,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_SCOPED_LOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library replace.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -926,6 +927,8 @@ namespace boost {
 
 #endif  // BOOST_REPLACE_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library replace.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2006.
@@ -1852,4 +1855,7 @@ namespace boost {
 } // namespace boost
 
 #endif  // BOOST_REPLACE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

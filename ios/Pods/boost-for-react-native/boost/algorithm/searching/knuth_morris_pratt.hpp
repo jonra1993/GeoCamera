@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2010-2012.
 
@@ -263,6 +264,8 @@ namespace boost { namespace algorithm {
 
 #endif  // BOOST_ALGORITHM_KNUTH_MORRIS_PRATT_SEARCH_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2010-2012.
 
@@ -526,4 +529,7 @@ namespace boost { namespace algorithm {
 }}
 
 #endif  // BOOST_ALGORITHM_KNUTH_MORRIS_PRATT_SEARCH_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

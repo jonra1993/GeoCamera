@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_extended_p_square.hpp
 //
@@ -290,6 +291,8 @@ using extract::weighted_extended_p_square;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_extended_p_square.hpp
 //
@@ -580,4 +583,7 @@ using extract::weighted_extended_p_square;
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

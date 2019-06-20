@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library predicate_facade.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -42,6 +43,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_CLASSIFICATION_DETAIL_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library predicate_facade.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -84,4 +87,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_CLASSIFICATION_DETAIL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

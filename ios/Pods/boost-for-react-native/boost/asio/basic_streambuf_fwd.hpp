@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_streambuf_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -35,6 +36,8 @@ class basic_streambuf;
 
 #endif // BOOST_ASIO_BASIC_STREAMBUF_FWD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_streambuf_fwd.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,4 +73,7 @@ class basic_streambuf;
 #endif // !defined(BOOST_ASIO_NO_IOSTREAM)
 
 #endif // BOOST_ASIO_BASIC_STREAMBUF_FWD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

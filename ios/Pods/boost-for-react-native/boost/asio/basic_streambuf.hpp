@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // basic_streambuf.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -371,6 +372,8 @@ inline std::size_t read_size_helper(
 
 #endif // BOOST_ASIO_BASIC_STREAMBUF_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // basic_streambuf.hpp
 // ~~~~~~~~~~~~~~~~~~~
@@ -742,4 +745,7 @@ inline std::size_t read_size_helper(
 #endif // !defined(BOOST_ASIO_NO_IOSTREAM)
 
 #endif // BOOST_ASIO_BASIC_STREAMBUF_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

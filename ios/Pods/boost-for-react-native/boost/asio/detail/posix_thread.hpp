@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/posix_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,6 +108,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_POSIX_THREAD_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/posix_thread.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -214,4 +217,7 @@ private:
 #endif // defined(BOOST_ASIO_HAS_PTHREADS)
 
 #endif // BOOST_ASIO_DETAIL_POSIX_THREAD_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

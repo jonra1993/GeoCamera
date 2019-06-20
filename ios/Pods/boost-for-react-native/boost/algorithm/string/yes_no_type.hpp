@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //  Boost string_algo library yes_no_type.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -33,6 +34,8 @@ namespace boost {
 
 #endif  // BOOST_STRING_YES_NO_TYPE_DETAIL_HPP
 =======
+=======
+>>>>>>> Jona
 //  Boost string_algo library yes_no_type.hpp header file  ---------------------------//
 
 //  Copyright Pavol Droba 2002-2003.
@@ -66,4 +69,7 @@ namespace boost {
 
 
 #endif  // BOOST_STRING_YES_NO_TYPE_DETAIL_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

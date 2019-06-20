@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/reactor.hpp
 // ~~~~~~~~~~~~~~~~~~
@@ -32,6 +33,8 @@
 
 #endif // BOOST_ASIO_DETAIL_REACTOR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/reactor.hpp
 // ~~~~~~~~~~~~~~~~~~
@@ -64,4 +67,7 @@
 #endif
 
 #endif // BOOST_ASIO_DETAIL_REACTOR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_kurtosis.hpp
 //
@@ -105,6 +106,8 @@ using extract::weighted_kurtosis;
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // weighted_kurtosis.hpp
 //
@@ -210,4 +213,7 @@ using extract::weighted_kurtosis;
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

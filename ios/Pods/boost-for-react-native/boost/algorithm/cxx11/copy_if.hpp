@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -129,6 +130,8 @@ copy_until ( const Range &r, OutputIterator result, Predicate p )
 
 #endif  // BOOST_ALGORITHM_COPY_IF_HPP
 =======
+=======
+>>>>>>> Jona
 /* 
    Copyright (c) Marshall Clow 2008-2012.
 
@@ -258,4 +261,7 @@ copy_until ( const Range &r, OutputIterator result, Predicate p )
 }} // namespace boost and algorithm
 
 #endif  // BOOST_ALGORITHM_COPY_IF_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

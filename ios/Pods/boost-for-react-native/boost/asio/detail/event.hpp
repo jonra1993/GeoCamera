@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/event.hpp
 // ~~~~~~~~~~~~~~~~
@@ -50,6 +51,8 @@ typedef std_event event;
 
 #endif // BOOST_ASIO_DETAIL_EVENT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/event.hpp
 // ~~~~~~~~~~~~~~~~
@@ -100,4 +103,7 @@ typedef std_event event;
 } // namespace boost
 
 #endif // BOOST_ASIO_DETAIL_EVENT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

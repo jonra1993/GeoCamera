@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/gcc_arm_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,6 +92,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_GCC_ARM_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/gcc_arm_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -182,4 +185,7 @@ private:
 #endif // defined(__GNUC__) && defined(__arm__)
 
 #endif // BOOST_ASIO_DETAIL_GCC_ARM_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

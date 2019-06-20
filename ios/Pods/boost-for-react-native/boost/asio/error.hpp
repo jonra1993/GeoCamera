@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // error.hpp
 // ~~~~~~~~~
@@ -341,6 +342,8 @@ inline boost::system::error_code make_error_code(misc_errors e)
 
 #endif // BOOST_ASIO_ERROR_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // error.hpp
 // ~~~~~~~~~
@@ -682,4 +685,7 @@ inline boost::system::error_code make_error_code(misc_errors e)
 #endif // defined(BOOST_ASIO_HEADER_ONLY)
 
 #endif // BOOST_ASIO_ERROR_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

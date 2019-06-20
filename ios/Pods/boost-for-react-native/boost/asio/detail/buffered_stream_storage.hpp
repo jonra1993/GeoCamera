@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/buffered_stream_storage.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,6 +129,8 @@ private:
 
 #endif // BOOST_ASIO_DETAIL_BUFFERED_STREAM_STORAGE_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/buffered_stream_storage.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -256,4 +259,7 @@ private:
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_BUFFERED_STREAM_STORAGE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

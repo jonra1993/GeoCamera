@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/bind_handler.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -491,6 +492,8 @@ inline binder5<Handler, Arg1, Arg2, Arg3, Arg4, Arg5> bind_handler(
 
 #endif // BOOST_ASIO_DETAIL_BIND_HANDLER_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/bind_handler.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~
@@ -982,4 +985,7 @@ inline binder5<Handler, Arg1, Arg2, Arg3, Arg4, Arg5> bind_handler(
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_DETAIL_BIND_HANDLER_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

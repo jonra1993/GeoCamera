@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ///////////////////////////////////////////////////////////////////////////////
 // covariance.hpp
 //
@@ -220,6 +221,8 @@ struct feature_of<tag::weighted_covariance<VariateType, VariateTag> >
 
 #endif
 =======
+=======
+>>>>>>> Jona
 ///////////////////////////////////////////////////////////////////////////////
 // covariance.hpp
 //
@@ -440,4 +443,7 @@ struct feature_of<tag::weighted_covariance<VariateType, VariateTag> >
 }} // namespace boost::accumulators
 
 #endif
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // impl/read_at.hpp
 // ~~~~~~~~~~~~~~~~
@@ -812,6 +813,8 @@ async_read_at(AsyncRandomAccessReadDevice& d,
 
 #endif // BOOST_ASIO_IMPL_READ_AT_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // impl/read_at.hpp
 // ~~~~~~~~~~~~~~~~
@@ -1624,4 +1627,7 @@ async_read_at(AsyncRandomAccessReadDevice& d,
 #include <boost/asio/detail/pop_options.hpp>
 
 #endif // BOOST_ASIO_IMPL_READ_AT_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

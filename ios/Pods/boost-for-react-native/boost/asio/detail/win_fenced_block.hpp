@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 // detail/win_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,6 +92,8 @@ public:
 
 #endif // BOOST_ASIO_DETAIL_WIN_FENCED_BLOCK_HPP
 =======
+=======
+>>>>>>> Jona
 //
 // detail/win_fenced_block.hpp
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -182,4 +185,7 @@ public:
 #endif // defined(BOOST_ASIO_WINDOWS) && !defined(UNDER_CE)
 
 #endif // BOOST_ASIO_DETAIL_WIN_FENCED_BLOCK_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

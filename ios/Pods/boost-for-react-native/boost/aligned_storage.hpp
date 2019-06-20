@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //-----------------------------------------------------------------------------
 // boost aligned_storage.hpp header file
 // See http://www.boost.org for updates, documentation, and revision history.
@@ -18,6 +19,8 @@
 
 #endif // BOOST_ALIGNED_STORAGE_HPP
 =======
+=======
+>>>>>>> Jona
 //-----------------------------------------------------------------------------
 // boost aligned_storage.hpp header file
 // See http://www.boost.org for updates, documentation, and revision history.
@@ -36,4 +39,7 @@
 #include <boost/type_traits/aligned_storage.hpp>
 
 #endif // BOOST_ALIGNED_STORAGE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona

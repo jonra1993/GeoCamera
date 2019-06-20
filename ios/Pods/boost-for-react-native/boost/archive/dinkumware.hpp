@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef BOOST_ARCHIVE_DINKUMWARE_HPP
 #define BOOST_ARCHIVE_DINKUMWARE_HPP
 
@@ -224,6 +225,8 @@ inline back_insert_iterator<basic_string<wchar_t> > back_inserter(
 
 #endif //BOOST_ARCHIVE_DINKUMWARE_HPP
 =======
+=======
+>>>>>>> Jona
 #ifndef BOOST_ARCHIVE_DINKUMWARE_HPP
 #define BOOST_ARCHIVE_DINKUMWARE_HPP
 
@@ -448,4 +451,7 @@ inline back_insert_iterator<basic_string<wchar_t> > back_inserter(
 } // namespace std
 
 #endif //BOOST_ARCHIVE_DINKUMWARE_HPP
+<<<<<<< HEAD
+>>>>>>> Jona
+=======
 >>>>>>> Jona
