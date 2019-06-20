@@ -11,9 +11,6 @@ Your browser does not support the video tag.
 </video>
 </p>
 
-<p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/1Parts.png">
-</p>
 
 # Instructions
   - Install react-native packages
