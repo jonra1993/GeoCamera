@@ -5,6 +5,7 @@ import styles from "./styles";
 
 class LoginScreen extends Component {
   render() {
+    console.log("Hola")
     return (
       <Container >
         <Content >

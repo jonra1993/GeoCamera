@@ -139,6 +139,8 @@ android {
 }
 
 dependencies {
+    implementation project(':react-native-fetch-blob')
+    implementation project(':react-native-fs')
     
     implementation project(':react-native-camera')
     implementation project(':react-native-maps')

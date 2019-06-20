@@ -120,5 +120,17 @@ Documentation: https://react-native-community.github.io/react-native-camera/docs
 Tutorial: https://www.toptal.com/react-native/react-native-camera-tutorial
 ---
 
+## React Native Fs
+
+```shell
+
+npm install react-native-fs --save
+react-native link react-native-fs
+
+```
+
+Documentation: https://github.com/itinance/react-native-fs
+
+
 ##solve multiple problem in ios
 https://github.com/oblador/react-native-vector-icons/issues/851
