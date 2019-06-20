@@ -17,8 +17,6 @@ import Style from "./style";
 import {updateLocation} from "../../actions/index";
 import {connect} from "react-redux";
 import Geolocation from "react-native-geolocation-service";
-import RNFS from 'react-native-fs';
-import { logicalExpression } from "@babel/types";
 
 let hasLocationPermission = async () => {
   if (Platform.OS === "ios" ||
@@ -46,7 +44,7 @@ let hasLocationPermission = async () => {
 class MapScreen extends Component {
 
   componentDidMount() {
-    //this.props.updateLocation();
+    this.props.updateLocation();
   }
 
   render() {
@@ -94,12 +92,19 @@ class MapScreen extends Component {
           <MapView
             provider={PROVIDER_GOOGLE}
             style={Style.map}
+            showsUserLocation={true}
+            followsUserLocation={true}
+            ref={ref => {
+              this.map = ref;
+            }}
             initialRegion={coordinates}
             showsCompass
           >
           {marks}
           </MapView>
-          <ButtonHelp onPress = {()=>this.props.updateLocation()}  />
+          <ButtonHelp onPress = {()=>{
+              this.map.animateToRegion(coordinates)
+            this.props.updateLocation()}}  />
         </View>
       </Container>
     );
@@ -133,6 +138,7 @@ const mapDispatchToProps = dispatch => {
         },
         { enableHighAccuracy: true, timeout: 15000, maximumAge: 10000, distanceFilter: 0 }
       );
+      
     }
   };
 };
