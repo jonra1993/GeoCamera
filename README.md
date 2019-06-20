@@ -1,6 +1,9 @@
 # GeoCamera
 It is a React Native App that takes a picture and then it shows the picture as a marker over a map in its GPS coordinates where it was taken. Uses permissions, Geolocation Google Ap, React Native Camera among other packages.
 
+Pictures are saved at root/Pictures
+
+
 <p align="center">
 <video width="100%" controls>
   <source src="https://www.jonathanvargas.ml/wp-content/uploads/2019/06/GeoCamera.mp4" type="video/mp4">
