@@ -9,7 +9,7 @@ import {
   Image
 } from "react-native";
 import { Container, Header, Title, Button, Left, Right, Body, Icon} from "native-base";
-import ButtonHelp from "../../components/buttons/buttonGetLocation";
+import ButtonGetLocation from "../../components/buttons/buttonGetLocation";
 
 import MapView, {PROVIDER_GOOGLE, Marker}  from "react-native-maps";
 import Style from "./style";
@@ -102,9 +102,10 @@ class MapScreen extends Component {
           >
           {marks}
           </MapView>
-          <ButtonHelp onPress = {()=>{
-              this.map.animateToRegion(coordinates)
-            this.props.updateLocation()}}  />
+          <ButtonGetLocation onPress = {()=>{
+            this.props.updateLocation()
+            this.map.animateToRegion(coordinates)
+            }}  />
         </View>
       </Container>
     );

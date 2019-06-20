@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import {StyleSheet, View } from 'react-native';
 import { RNCamera } from 'react-native-camera';
-import ButtonHelp from "../../components/buttons/ButtonHelp"
+import ButtonPhoto from "../../components/buttons/buttonPhoto"
 import {addPhoto} from "../../actions/index";
 import {updateLocation} from "../../actions/index";
 import RNFS from 'react-native-fs';
@@ -57,7 +57,7 @@ class CameraScreen extends PureComponent {
           }}
         />
         <View style={{ flex: 0, flexDirection: 'row', justifyContent: 'center' }}>
-          <ButtonHelp onPress={this.takePicture.bind(this)} style={styles.capture}></ButtonHelp>
+          <ButtonPhoto onPress={this.takePicture.bind(this)} style={styles.capture}/>
         </View>
       </View>
     );
