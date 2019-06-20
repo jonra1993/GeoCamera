@@ -1,7 +1,7 @@
 import React, { Component} from "react";
 import { TouchableOpacity, Image } from "react-native";
 
-class ButtonHelp extends Component {
+export default class ButtonPhoto extends Component {
   render(){
     const { onPress} = this.props;
     //console.log(count);
@@ -22,12 +22,9 @@ class ButtonHelp extends Component {
           onPress={() => onPress()}
       >
         <Image style={{width: 80, height: 80}}
-          source={require("../../assets/helpButton.png")}
+          source={require("../../assets/photoButton.png")}
         />
       </TouchableOpacity>
     );
   }
 }
-
-
-export default ButtonHelp;
