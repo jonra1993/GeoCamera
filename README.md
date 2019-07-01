@@ -26,17 +26,12 @@ react-native link
 
 ```
 
-
-
-
 ## Prerequisites
   - Intall nodejs
   - Intall JavaSDK, JavaJRE and configure vairables
   - Intall Android studio and configure variable
   - Intall Xcode
----
 
----
 
 ## Install, Init and Execute React Native
 
@@ -47,12 +42,9 @@ react-native run-ios
 
 ```
 
----
-## Packages
----
+# Packages used
 
----
-### React Navigation
+## React Navigation
 ```shell
 
 npm install --save react-navigation
@@ -66,7 +58,7 @@ make changes from: https://reactnavigation.org/docs/en/getting-started.html
 cheatsheet: https://blog.usejournal.com/react-navigation-cheatsheet-bf99f09d8060
 
 
-### React Native Vector Icons
+## React Native Vector Icons
 
 ```shell
 
@@ -77,9 +69,9 @@ react-native link react-native-vector-icons
 
 Documentation: https://oblador.github.io/react-native-vector-icons/
 
----
 
-### Native Base
+
+## Native Base
 
 ```shell
 
@@ -89,7 +81,6 @@ react-native link
 ```
 
 Documentation: https://docs.nativebase.io/
----
 
 
 ## React Native Maps
@@ -107,7 +98,7 @@ Video: https://www.youtube.com/watch?v=97OtSGw7BPs
 for iOS issues:
 https://github.com/react-native-community/react-native-maps/issues/1842
 https://github.com/react-native-community/react-native-maps/issues/2876
----
+
 
 ## React Native Geolocation Service
 
@@ -120,7 +111,6 @@ react-native link react-native-geolocation-service
 
 Documentation and configuration: https://github.com/Agontuk/react-native-geolocation-service
 
----
 
 ## Redux
 
@@ -134,7 +124,6 @@ react-native link
 
 Documentation: https://redux.js.org/introduction/getting-started
 Video: https://www.youtube.com/watch?v=ENJfnyIfe-I
----
 
 ## React Native Camera
 
@@ -148,7 +137,6 @@ react-native link
 
 Documentation: https://react-native-community.github.io/react-native-camera/docs/installation
 Tutorial: https://www.toptal.com/react-native/react-native-camera-tutorial
----
 
 ## React Native Fs
 
@@ -162,6 +150,13 @@ react-native link react-native-fs
 Documentation: https://github.com/itinance/react-native-fs
 
 
-##solve multiple problem in ios
+solve multiple problems in ios: 
 https://github.com/oblador/react-native-vector-icons/issues/851
 
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Authors: <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a> and Xavier Aguas.
