@@ -162,4 +162,4 @@ https://github.com/oblador/react-native-vector-icons/issues/851
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Authors: <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a> and Xavier Aguas.
+- Authors: <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a> and <a href="https://www.xavieraguas.tk" target="_blank">Xavier Aguas</a>.
