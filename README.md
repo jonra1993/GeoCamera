@@ -11,9 +11,9 @@ Your browser does not support the video tag.
 </p>
 
 <p align="center">
-  <img height="720" width="360" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera1.png">
-  <img height="720" width="360" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera2.png">
-  <img height="720" width="360" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera3.png">
+  <img height="360" width="180" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera1.png">
+  <img height="360" width="180" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera2.png">
+  <img height="360" width="180" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera3.png">
 </p>
 
 
