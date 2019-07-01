@@ -3,12 +3,17 @@ It is a React Native App that takes a picture and then it shows the picture as a
 
 Pictures are saved at root/Pictures
 
-
 <p align="center">
 <video width="100%" controls>
   <source src="https://www.jonathanvargas.ml/wp-content/uploads/2019/06/GeoCamera.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+</p>
+
+<p align="center">
+  <img height="720" width="360" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera1.png">
+  <img height="720" width="360" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera2.png">
+  <img height="720" width="360" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/07/GeoCamera3.png">
 </p>
 
 
